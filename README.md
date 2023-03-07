@@ -7,7 +7,6 @@ Cooking domain-specific lexicon in `youcook2/1.2.cooking_vocab.strict_filtered.u
 ### Acknowledgement
 This codebase has been initialised from the [repo](https://github.com/frankxu2004/cooking-procedural-extraction) for the paper "A Benchmark for Structured Procedural Knowledge Extraction from Cooking Videos". 
 
-### Repository Structure
 
 Project Organization
 ------------
