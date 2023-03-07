@@ -9,13 +9,17 @@ This codebase has been initialised from the [repo](https://github.com/frankxu200
 
 ### Repository Structure
 
-├── data               <- Any datasets that need to be saved
-├── logs               <- Logs from model training runs
-├── models             <- Save any model weights here
-├── notebooks          <- Notebooks for running experiments
-├── scripts            <- Youcook scripts
-├── src                <- Model training and evaluation code
-│   ├── models         <- Model classes
-│   ├── processing     <- Data processing scripts
-│
-│
+Project Organization
+------------
+
+    ├── data               <- Any datasets that need to be saved
+    ├── logs               <- Logs from model training runs
+    ├── models             <- Save any model weights here
+    ├── notebooks          <- Notebooks for running experiments
+    ├── scripts            <- Youcook scripts
+    ├── src                <- Model training and evaluation code
+        ├── models         <- Model classes
+        ├── processing     <- Data processing scripts
+    
+
+------------
