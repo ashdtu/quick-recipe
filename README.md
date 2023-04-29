@@ -1,6 +1,6 @@
 
 ## Dataset
-Please find our processed YouCook2 dataframe in Pickle format at  `data/full_master_updated.pkl`.
+Please download data and model checkpoint files from [drive](https://drive.google.com/drive/folders/1hnY0ZlavaA_N8vZRS7_y9BKCQkXEff6I?usp=share_link). Extract it in data/ and model/ directories respectively. Our processed YouCook2 dataset in Pickle format is available at `data/full_master_updated.pkl`.
 
 ### Acknowledgement
 This codebase has been initialised from the [repo](https://github.com/frankxu2004/cooking-procedural-extraction) for the paper "A Benchmark for Structured Procedural Knowledge Extraction from Cooking Videos". 
