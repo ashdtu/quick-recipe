@@ -23,9 +23,15 @@ Project Organization
 
 ### Experiment wise Notebooks
 
+**Feature Re-alignment**
+- Feature Re-alignment notebook: `notebooks/yc2_feature_alignment_v2.ipynb`
+
 **KeyClip Selection**
-DistilBERT-Classifier(with and without Context): `notebooks/DistilBERT-keyclip.ipynb` 
-Self-Attention (Text and Multi-modal experiments): `notebooks/self-attention-keyclip.ipynb`
-Creating Sentence Embeddings(MiniLM-L6, DistilBERT): `notebooks/create-sentence-embeddings.ipynb`
+- DistilBERT-Classifier(with and without Context): `notebooks/DistilBERT-keyclip.ipynb` 
+- Self-Attention (Text and Multi-modal experiments): `notebooks/self-attention-keyclip.ipynb`
+- Creating Sentence Embeddings(MiniLM-L6, DistilBERT): `notebooks/create-sentence-embeddings.ipynb`
+- Independent Visual Features: `notebooks/yc2_cnn_visual_only.ipynb`
+- Unified Visual Features: `notebooks/yc2_visual_unified_feat.ipynb`
+- Self-attention on visual features: `notebooks/yc2_self_attn.ipynb`
 
 **Knowledge Extraction**
