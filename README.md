@@ -1,8 +1,6 @@
 
 ## Dataset
-Please find the annotated video with transcripts and structured procedures in `youcook2/reviewed_0812.csv`.
-
-Cooking domain-specific lexicon in `youcook2/1.2.cooking_vocab.strict_filtered.unsorted.lst`
+Please find our processed YouCook2 dataframe in Pickle format at  `data/full_master_updated.pkl`.
 
 ### Acknowledgement
 This codebase has been initialised from the [repo](https://github.com/frankxu2004/cooking-procedural-extraction) for the paper "A Benchmark for Structured Procedural Knowledge Extraction from Cooking Videos". 
@@ -22,3 +20,12 @@ Project Organization
     
 
 ------------
+
+### Experiment wise Notebooks
+
+**KeyClip Selection**
+DistilBERT-Classifier(with and without Context): `notebooks/DistilBERT-keyclip.ipynb` 
+Self-Attention (Text and Multi-modal experiments): `notebooks/self-attention-keyclip.ipynb`
+Creating Sentence Embeddings(MiniLM-L6, DistilBERT): `notebooks/create-sentence-embeddings.ipynb`
+
+**Knowledge Extraction**
