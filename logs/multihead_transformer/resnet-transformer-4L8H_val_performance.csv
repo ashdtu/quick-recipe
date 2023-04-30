@@ -1,0 +1,961 @@
+summary,prediction,true_positives,num_predicted,num_gold
+add hoisin sauce and peanut butter,add soy sauce garlic to <unk>,2,6,6
+add sugar water garlic powder,add <unk> powder,2,3,5
+add fish sauce,mix the mixture,0,3,3
+add lime,get lemon juice on rice,0,5,2
+add chopped garlic,add the rest ingredients,1,4,3
+add fresh chuilli peppers,add pepper,1,2,4
+add cooked vermicelli noodles,put in rice,0,3,4
+take tofu bean sprouts,add meat vinegar,0,3,4
+take lettuce sawtooth coriander mint and cilantro,chop lettuce parsley,1,3,7
+boil shrimp cut shrimp tofu,crab <unk>,0,2,4
+place rice paper,add lettuce,0,2,3
+add noodles veggies vietnamese ham slice shrimp,add stock,1,2,7
+put tofu on ham,add stock,0,2,4
+put lettuce,add lettuce,1,2,2
+add cilantro,put mayonnaise,0,2,2
+add ham slice tofu,add stock,1,2,4
+add shrimp veggies,add bulgur wheat add herbs,1,4,3
+cut potatoes into quarters,cut apple,1,2,4
+rinse potatoes thoroughly,drain carrot potatoes,1,3,3
+drain potatoes dump potaoes into cold water,drain squid rings,1,3,7
+add salt,add salt,2,2,2
+boil potatoes,cook vegetables,0,2,2
+simmer potatoes,stir for butter,0,3,2
+cut butter,cut potatoes,1,2,2
+check potatoes,saute until bowl,0,3,2
+drain potatoes,drain the mixture add water,1,5,2
+heat pan,heat onions mash,1,3,2
+mash potatoes,turn off potatoes,1,3,2
+dump in salt pepper,add pepper,1,2,4
+whisk mixture,melt butter and pepper,0,4,2
+add milk,add milk,2,2,2
+microwave mixture,place in cream,0,3,2
+whip mixture,get fat on cream,0,4,2
+need salt cayenne,add salt pepper,1,3,3
+transfer mashed potatoes to bowl add chives,place in bowl with bowl,1,4,7
+clean prawns,place pork in bowl,0,4,2
+cut prawns,cut salmon into smaller paste,1,5,2
+add prawns to bowl add fish sauce soy sauce,add sauce mayonnaise,2,3,7
+add teriyaki sauce sesame oil garlic,add wet garlic paste,2,4,6
+marinate prawns,marinate mixture,1,2,2
+mix flour water,mix ingredients,1,2,3
+fry tempura prawns,put chicken in bowl,0,4,3
+dip into bread crumbs deep fry prawns,spread pork in pan,0,4,7
+mix up onions peppers sellers in pot,saute vegetables with vegetables,0,3,7
+add half teaspoon of bay leaf,add cream and potato,1,4,6
+stir vegetables add raw onions,saute vegetables,1,2,5
+mix everything add clam juice,add salt and blend,1,4,5
+reduce heat to medium add clams,add on the pan,1,4,6
+mix clam chowder,mix ingredients,1,2,3
+add milk,add eggs,1,2,2
+mix clam chowder,mix ingredients with rice,1,4,3
+add flour,stir mixture,0,2,2
+stir clam chowder,add to pot,0,3,3
+add two teaspoons of worcestershire sauce,add sauce,2,2,6
+add hot sauce,add sauce,2,2,3
+mix clam chowder,mix up salt,1,3,3
+add salt black peppercorn close lid,add salt,2,2,6
+take out broiling pan,add meat in bowl,0,4,4
+put foil underneath pan,add melted bread,0,3,4
+line galbi up in pan,heat,0,1,5
+stick rice greens meat in broiler,put chicken in add green onions,1,6,6
+take chicken,set hot sauce,0,3,2
+add garlic cloves sesame seed oil,add garlic parsley,2,3,6
+add fish sauce,sprinkle soy sauce,1,3,3
+add salt and mix,add salt pepper,2,3,4
+marinate chicken,cook ingredients for four top,0,5,2
+refrigerate chicken,put garlic cook mixture,0,4,2
+cut carrots,slice onions,0,2,2
+add rice wine vinegar to carrots,mix rice,1,2,6
+place chicken on stove,heat chicken,1,2,4
+cut bread,slice bread,1,2,2
+place chicken on bread,let it some potatoes,0,4,4
+add cilantro,spread <unk> bean sprouts,0,4,2
+add pickled carrots,fold with paper more cream,0,5,3
+take bell pepper onions,peel garlic,0,2,4
+take mushroom beef olive oil,take roasted tomatoes cucumber salt,1,5,5
+dice mushroom,chop,0,1,2
+cut onion chunks,put in chopped onion,1,4,3
+add crush garlic red pepper,add roasted onion,1,3,5
+marinate the mixture,put olive oil,0,3,3
+add oil pepper salt parsley minced onion crushed red pepper spice,add one garlic red bell pepper,3,6,10
+put skweres on grill,put it in the top of salt,1,7,4
+open lid,peel the potatoes,0,3,2
+take one head cauliflower,take lettuce parsley,1,3,4
+take one cucumber cherry tomatoes lemon juice,add apple sauce,0,3,7
+take oilive oil minced garlic chopped scallions parsley chopped mint sea salt black pepper,add egg parsley,1,3,13
+put cauliflower in food procesor,take smooth potato,0,3,5
+add all ingredients,mix rice vinegar,0,3,3
+add cucunber cherry tomatoes chopped scallions,add roll of tomatoes,2,4,6
+take chopped mint parsley minces garlic,add garlic paste,1,3,6
+take sea salt,add garlic powder,0,3,3
+toss the mixture add black pepper,add microwave pepper,2,3,6
+add lemon juice,add herbs,1,2,3
+add olive oil,add olive oil butter,3,4,3
+toss all ingredients,rinse separate ingredients,1,3,3
+mix rice flour and maida,mix all purpose flour add water,2,6,5
+mix suji into flour mixture,make dough,0,2,5
+add leaves,add bread,1,2,2
+add salt cumin seeds,add salt,2,2,4
+add hing,add,1,1,2
+add water,add water,2,2,2
+add cginger,add ginger and onion,1,4,2
+add green chilies,take vegetables and <unk> pepper,0,5,3
+mix ingredients together,mix ingredients,2,2,3
+leave the batter for hours add black pepepr,add pepper,1,2,8
+add grated coconut,add milk,1,2,3
+mix ingredients together,add flour,0,2,3
+add milk,add water,1,2,2
+heat pan add spread oil to pan spread batter,add water to batter,3,4,7
+apply oil to edges,put oil on batter,1,4,4
+put potatoes onto middle of dosa,chop potatoes,1,2,6
+steam cabbage,cook bacon with bacon,0,3,2
+add butter,mash potatoes over butter,1,4,2
+drain ingredients,mash potatoes,0,2,2
+add cream,whisk ingredients,0,2,2
+add green onions,add potato put in water,1,5,3
+heat cast iron skillet fry bacon,heat bacon in pan,2,4,6
+remove bacon from skillet add diced celery onions and butter to pot,add bacon,2,2,12
+add quarter cup of cornstarch,place butter in <unk>,0,4,5
+stir cornstarch into butter mixture,mix butter,1,2,5
+add cup of half and half,add milk,1,2,5
+throw in some sea salt,put salt in,2,3,5
+put bacon in clam chowder,add the mixture,0,3,5
+add sugaryeast salt to warm water,add cream,1,2,6
+add oil,put ingredients in liver,0,4,2
+keep dough in greased bowl,put in milk,1,3,5
+cover dough,cover dough with dough,2,3,2
+punch dough shape into small portions,get it up cheese,0,4,6
+take garlic,add garlic cook garlic,1,3,2
+add coriander,add to <unk>,1,3,2
+add butter,add butter olive oil,2,4,2
+heat pan,heat half and half,1,3,2
+roll dough,place cabbage,0,2,2
+come in garlic,take garlic,1,2,3
+roll dough,roll up the dough,2,4,2
+flip dough add water to downside of naan,drain <unk>,0,2,8
+cook dough,turn burger,0,2,2
+chop onion,take one onions,0,3,2
+add oil and ground beef to pan,add chicken,1,2,7
+cook for five minutes,cook for five minutes,4,4,4
+add onion,add green onion,2,3,2
+cook for five minutes at medium heat,cook onions,1,2,7
+season beef,season with salt,1,3,2
+add cornstarch,use one onion,0,3,2
+simmer for ten minutes,cook ingredients,0,2,4
+cut cabbage,cut potatoes,1,2,2
+submerge in water,flatten out water,1,3,3
+leave it,peel potatoes,0,2,2
+add salt,peel potatoes,0,2,2
+sit cabbage,drain potatoes,0,2,2
+work salt,season the salt,1,3,2
+toss cabbage,need salt,0,2,2
+squeeze cabbage,peel potatoes,0,2,2
+add water,add water,2,2,2
+submerge cabbage,peel the onion,0,3,2
+place sauerkraut in ziplock bag,add to potato,0,3,5
+let air out,steel soup,0,2,3
+place dish towel over water,mash potatoes,0,2,5
+microwave butter,get egg in cream,0,4,2
+combine dry ingredients,whisk ingredients,1,2,3
+beat eggs into milk,need egg,0,2,4
+whisk butter into mixture,whisk mashed potatoes,1,3,4
+let mixture sit,put parmesan,0,2,3
+mix milk egg and flour,whisk eggs,0,2,5
+add vanilla extract,add water,1,2,3
+preheat griddle,cook on medium heat,0,4,2
+season griddle,shape <unk> with oven,0,4,2
+spread pancake batter in pan,take flour,0,2,5
+turn pancake over,turn butter,1,2,3
+boil salted water,boil broth,1,2,3
+add fusilli pasta,add cream,1,2,3
+cook pasta,add,0,1,2
+add pasta cherry tomatoes,add pasta,2,2,4
+add cheese salami pepperoni,add cheese,2,2,4
+add green pepper black olives pimientos,add cilantro and chopped onion,1,5,6
+toss mixture,add marinated,0,2,2
+add two cups of water to pot,add water to bowl,3,4,7
+add two beef stock cubes,add water,1,2,5
+dissolve beef stock cubes,take roasted beef,1,3,4
+heat up olive oil in pan,put olive oil,2,3,6
+season beef with salt,use salt and pepper,1,4,4
+add pepper,add pepper and pepper,2,3,2
+add meat to pan,add meat,2,2,4
+take meat out of pan,cool <unk> for bubbles from heat,0,6,5
+add half an onion,add onion garlic,2,3,4
+add garlic ginger chili,add onion garlic chilli powder,2,5,4
+mix brown onions,saute carrots,0,2,3
+add japanese barbecue sauce,add rice wine,1,3,4
+mix sauce in let cook,mix the mixture ginger,1,4,5
+put noodles into stock,put some cream on plate,1,5,4
+cut beef into thin slices,slice meatloaf,0,2,5
+place soup and noodles into bowl,put some onions on bowl,1,5,6
+place meat on one side of bowl,put the bottom on top,1,5,7
+spoon garlicbarbecueonion mixture on top of beef add spring onions,put garlic with vinegar,0,4,10
+bring broth up to boil add in soy sauce sesame oil white onion bok choy stir and cook for minutes add chicken noodles cook for an additional minutes serve with scallions on top,soak the <unk> in the top,2,5,29
+put wok on high heat add olive oil white onions bok choy stir add garlic,add shrimp ginger,1,3,14
+goes in noodles,soak soup,0,2,3
+put in sprouts stir sprouts,add pasta,0,2,4
+add sauce cook stir mixture,add pasta,1,2,5
+cook pasta,pick <unk> in bowl,0,4,2
+add sweet corn,take corn,1,2,3
+add spring onion green pepper yellow pepper red pepper salt,take onion garlic,1,3,8
+add salad cream,take hotdogs in <unk>,0,4,3
+mix ingredients,take onion paste green chilli paste,0,5,2
+drain water from tofu,add water,1,2,4
+put tofu on paper towel and stack heavy object on it,shape <unk>,0,2,10
+chop green onion shred carrot,take green onion garlic,2,4,5
+combine egg white,whisk egg,1,2,3
+add green onion and duck sauce,add cilantro,1,2,6
+add broccoli slaw and water,add bok choy,1,3,5
+mix mixture,add cornstarch,0,2,2
+add tofu,add,1,1,2
+add filling into the center,add place of <unk>,1,4,5
+moisten edge with water,take olive oil salt,0,4,4
+pick and pinch tofu,cut dough,0,2,4
+press on flower sheet,remove corner up,0,3,4
+place pot stickers on tray,place cabbage,1,2,5
+heat oil add pot stickers,heat oil put of pan,2,5,5
+cook pot stickers,heat pan,0,2,3
+press down pot stickers,add bread,0,2,4
+add water,heat dumplings,0,2,2
+cook pot stickers,cook ingredients,1,2,3
+remove cover until water evaporates,leave potatoes,0,2,5
+cook the bottoms of pot stickers,cook mixture,1,2,6
+remove and put on cooling rack,place it on heat,1,4,6
+add water,add water,2,2,2
+add vinegar and soy sauce,take sea salt,0,3,5
+add sesame oil,add sesame oil,3,3,3
+add red pepper,add red onion,2,3,3
+whisk mixture,add cornstarch,0,2,2
+add oil to thicken,add oil,2,2,4
+take oil,add water,0,2,2
+take vegetables,add pita pan,0,3,2
+take deep fat thermometer,pour apple into potato,0,4,4
+heat oil,grease,0,1,2
+cut the joint chicken wing,fry the chicken fry water,2,4,5
+bend the joint,cut salmon,0,2,3
+deep fry wings,pour juice over the rice,0,5,3
+transfer wings to wire rack,season the chicken with oil,0,5,5
+take red sauce,add chilli paste,0,3,3
+simmer red sauce,heat up pot,0,3,3
+add butter,add butter,2,2,2
+add unslated butter,add melted butter,2,3,3
+turn off heat,turn the heat on the top,2,5,3
+put chciken wings in bowl,roll up the chicken in the excess onion,1,7,5
+add sauce into bowl,add sauce,2,2,4
+toss the wings,cut chicken,0,2,3
+take some blue cheese lemon salt and pepper,add roasted ground pepper,1,4,8
+put low flame add peanut oil,heat baking soda,0,3,6
+cut red chilli peppers,cut <unk>,1,2,4
+stir peppers,dump in mix pepper,0,4,2
+add sichuan peppercorn,mix ground black pepper,0,4,3
+add spicy bean paste,take ground rice paper,0,4,4
+add green onion add pork,take spring onions,0,3,4
+add chopped ginger and garlic,take garlic,1,2,5
+add silken tofu,boil water,0,2,3
+make slurry,saute,0,1,2
+take chicken stock cornstarch,heat ground beef,0,3,4
+add oil,add oil,2,2,2
+put garlic ginger,saute garlic and <unk>,1,4,3
+add sichuan pepper,use pepper and roasted chilli,1,5,3
+increase heat,heat up,1,2,2
+add pork,add rice,1,2,2
+add spicy bean paste,add cheese,1,2,4
+increase heat,turn heat,1,2,2
+add chilli oil,add bacon,1,2,3
+add tofu,toss mixture,0,2,2
+put green onion,add onions,0,2,3
+fry onion garlic,preheat pan,0,2,3
+chop add the potatoes,place bread into slices,0,4,4
+squeeze tomatoes,cut <unk>,0,2,2
+add tomatoes,add tomato,1,2,2
+pour chicken stock into pot,add vegetable oil,0,3,5
+add basil,cook the chicken with oil,0,5,2
+add salt,season with salt pepper,1,4,2
+blend mixture,blend the mixture,2,3,2
+add cheese,toast onions,0,2,2
+rinse escargot under cool water,fry until they float,0,4,5
+pat escargot dry,fry the bread,0,3,3
+press garlic,cool garlic in blender,1,4,2
+add chives salt white pepper,add pepper,2,2,5
+add sherry,add sauce and roll rice,1,5,2
+cook escargot,cook mixture,1,2,2
+take boiling water,marinate up heat,0,3,3
+take cucumber,put spring tomatoes in bowl,0,5,2
+take grape tomatoes,use tomatoes,1,2,3
+take grated carrot green onion,use carrot slice green onion,3,5,5
+take fresh mint fresh parsley,add pepper lemon juice,0,4,4
+add dried herbs,add parsley parsley parsley mint,1,3,3
+take lemon zest leons juice olive oil sea salt ground black pepper,add pepper,1,2,12
+slice celery,add sushi sauce,0,3,2
+slice shikara mushroom,cut <unk> sauce,0,3,3
+dice potato,take bacon chilli paste,0,4,2
+chop sun dried tomatoes,cut tomatoes,1,2,4
+shred cabbage,put celery in water,0,4,2
+heat pan,heat pan with pan,2,3,2
+add olive oil to pan,heat up <unk>,0,3,5
+add onions carrots mushroom celery,add carrot <unk>,1,3,5
+add ham,add hotdogs,1,2,2
+add potatoes cauliflower tomatoes cabbage,add vegetables,1,2,5
+add salt add pepper cook vegetables,season with salt,1,3,5
+add dried herbs,boil the mixture,0,3,3
+add dried basil,cool walnuts,0,2,3
+cook soup,cook,1,1,2
+add tomatoes add peas stir mixture,stir veggies,1,2,5
+add chicken stock,heat oil,0,2,3
+add parmesan rind,stir for spice cooked,0,4,3
+cook mixture in oven,cook mixture,2,2,4
+add water place mixture back in oven,heat in pan,1,3,7
+lay down tomato sauce,put meat on top,0,4,4
+leave half an inch around pizza,put meat,0,2,6
+lay down cheese,add beer,0,2,3
+lay basil down,put ingredients in,0,3,3
+press basil down,put meat on <unk>,0,4,3
+pop pizza in oven,fry the liver,0,3,4
+keep it on pizza stone,put on top,1,3,5
+put butter in pan,add butter,1,2,4
+melt butter,add to pan,0,3,2
+add milk,add potatoes,1,2,2
+whisk in salt pepper,add butter,0,2,4
+add egg yolk mix eggs,add eggs,2,2,5
+place in bread,slice the mixture,0,3,3
+add sauce,put in <unk>,0,3,2
+add pepper,add pepper,2,2,2
+add cheese on top,add cheese,2,2,4
+drain garbanzo beans,boil hotdogs,0,2,3
+put garbanzo beans into food processor,take <unk> bag,0,3,6
+add onions garlic,add potato,1,2,3
+add spices cayenne,add bacon garlic paste,1,4,3
+add baking powder,add cream and pepper,1,4,3
+add cilantro parsley,add cilantro,2,2,3
+add rest of the beans,add sausage,1,2,5
+grind mixture,drain the ground pepper,0,4,2
+push down mixture,have the cream,0,3,3
+pulse mixture,let mixture,1,2,2
+add bread crumbs,mix dough and <unk>,0,4,3
+place mixture into bowl,make air <unk>,0,3,4
+add lemon juice,add pepper,1,2,3
+scoop falafel mixture,add butter,0,2,3
+brush some olive oil,fry bacon with oil,1,4,4
+place falafel in oven,cool off grease add melted on top,0,7,4
+flip falafels,turn off heat,0,3,2
+put the pancetta in,line up to flour,0,4,4
+sweat and saute pancetta,get butter basil butter,0,3,4
+have carrots celery and onions,put carrots mushrooms,1,3,5
+have dried basil oregano and marjoram,add chicken garlic,0,3,6
+add and stir chopped garlic,put garlic into the top,1,5,5
+add bay leaf,put four hours and add water,1,6,3
+throw white wine in,put the mixture aside,0,4,4
+bring up heat reduce liquid,heat pan add oil,1,4,5
+add soak beans,add meat ginger paste cook mixture,1,6,3
+pour in chicken stockbroth,simmer mixture,0,2,4
+bring heat up to boil,add water,0,2,5
+cook for seventeen minutes,cook mixture,1,2,4
+stir in canned tomatoes,add beer vinegar,0,3,4
+turn on the heat leave pressure cooker uncovered,cook by closing lid,0,4,8
+cook pasta,cook <unk> for pot,1,4,2
+add parsley,cut basil,0,2,2
+make tomato sauce,add tomato sauce,2,3,3
+add meatball to boiling water,put meat in,0,3,5
+boil potatoes,boil the water,1,3,2
+cut cabbage,shred cabbage,1,2,2
+cook cabbage,remove mix cabbage,1,3,2
+mash potatoes,drain lettuce with potato,0,4,2
+add cabbage to potato,add batter and mash,1,4,4
+pour in milk,peel potatoes,0,2,3
+bring mixture to the boil,boil the <unk>,2,3,5
+mix with electric mixer,add water to <unk>,0,4,4
+put in butter,spread butter,1,2,3
+mix sugar saki beef stock hot chilli oil,add fish sauce,0,3,8
+add soy sauce,add sauce,2,2,3
+cook chicken,heat chicken,1,2,2
+add onions to chicken,add onions,2,2,4
+add white peper salt chicken seasoning,add saffron and mix ingredients,1,5,6
+add mushroom garlic cook vegetables,cook vegetables,2,2,5
+add bean sprouts,add whipping cream,1,3,3
+add precooked noodles,add noodles,2,2,3
+add mail,take brown onion,0,3,2
+add kutsal,flip up on blend,0,4,2
+garnish with green onions beni shoga,chop onion,0,2,6
+take sushi rice avocado surimi mayonnaise cucumber,add noodles,0,2,7
+take nori,toast onions,0,2,2
+wet your hand,spread sushi,0,2,3
+spread rice,trim sushi on rice,1,4,2
+spread mayo,trim sushi into flour,0,4,2
+take avocado,trim sushi,0,2,2
+take crab,add avocado,0,2,2
+add cucumber,spread mayonnaise,0,2,2
+fold the sheet,roll sushi,0,2,3
+take the blade,cut bottom,0,2,3
+cut sushi into three,cut sushi,2,2,4
+melt butter in pan,put butter,1,2,4
+take bread sticks,put hot dogs in the top,0,6,3
+put bread in pan,put bread,2,2,4
+take cheddar cheese,slice avocado,0,2,3
+place mozzarella cheese over cheddar cheese,place parmesan on top,1,4,5
+take pizza sauce,add pepper,0,2,3
+spread pizza sauce,add cheese and cheese,0,3,3
+take pepperoni,add salsa on <unk>,0,4,2
+place mozzarella pepperoni over the sauce,add cheese,0,2,6
+add mushroom onion black olive,take olive oil,1,3,5
+heat the sandwich,whisk sandwich,1,2,3
+add garlic ginger,add pepper powder chilli powder,1,4,3
+add seaweed,add water,1,2,2
+take plum paste,add water,0,2,3
+take curry powder,add salt,0,2,3
+blend the ingrediants,blend the mixture,2,3,3
+add cayenne,soak lentils,0,2,2
+add frankie coconut oil,add oil to frying pan,2,5,4
+garnish with parsley,take <unk> parsley mint,1,4,3
+add water to pot,put in refrigerator,0,3,4
+add salt boil water,add salt,2,2,4
+mix olive oil,add oil,1,2,3
+heat pan,sprinkle flour,0,2,2
+melt butter,add butter,1,2,2
+add flour cook mixture,bring mixture,1,2,4
+add milk whisk bechmel sauce,add yolks,1,2,5
+cook mixture,cook mixture,2,2,2
+turn off heat set mixture aside,drain the lid,0,3,6
+add black pepper,add pepper,2,2,3
+add salt,add salt,2,2,2
+add cheese,add cheese,2,2,2
+stir mixture,add cream,0,2,2
+take pasta,rinse water,0,2,2
+add creamy sauce to pasta,add cream sauce,2,3,5
+mix pasta,mix the rice mix ingredients,1,4,2
+add sauce,add sauce coconut sauce,2,3,2
+add bread crumbs bake pasta,set add to flour,1,4,5
+take channa,rinse garbanzo,0,2,2
+pressure cook channa with water,cook for water,2,3,5
+add cinnamon,heat sesame seeds,0,3,2
+add cardamom star anise cumin seeds onions,add noodles,1,2,7
+increase flame,turn heat,0,2,2
+add ginger garlic paste,add ginger garlic,3,3,4
+add tomatoes,add tomatoes,2,2,2
+add garam masala,add noodles,1,2,3
+add salt,add salt,2,2,2
+add coriander powder,add garam masala,1,3,3
+add chilli powder ginger powder,add chilli powder,3,3,4
+cook mixture,turn heat up,0,3,2
+cover mixture,add tomato and tomato,0,3,2
+add carom seeds,add vegetable oil,1,3,3
+add pomegranate seeds,add turmeric powder add chilli,1,4,3
+add mango powder,add vegetable oil,1,3,3
+add chili,add water,1,2,2
+mix mixture,add saffron and mix,1,4,2
+lower flame,cook mixture,0,2,2
+add kasoori methi,add noodles,1,2,3
+crush leaves,pull it on top,0,4,2
+cover mixture,cook by heat add dough,0,5,2
+put off flame,add cornstarch,0,2,3
+dress chicken with olive oil salt pepper italian seasoning granulated garlic granulated onion and crushed pepper flakes,sprinkle ingredients,0,2,15
+place in refrigerator,cook until refrigerator,1,3,3
+get main burners lit,boil,0,1,4
+heat up tomato sauce sear the chicken,simmer meatballs,0,2,7
+transfer tomato sauce into pan,fry lamb,0,2,5
+transfer chicken breast over into sauce,boil the mixture,0,3,6
+move the pan to the center of the grill,grill dumplings,1,2,7
+close lid cook for about minutes,cook the mixture add lamb,1,5,6
+serve on top of spaghetti top with parmesan cheese,serve with spaghetti,3,3,8
+take water,water,1,1,2
+add salt,boil the mixture,0,3,2
+add macaroni drain pasta,cook the mixture,0,3,4
+mix cheddar american cheese,use cream and cheese,1,4,4
+add eggs,add eggs,2,2,2
+add evaporated milk,add milk and add milk,2,3,3
+add half and half,add eggs,1,2,3
+add salt,add salt,2,2,2
+add white pepper,add pepper,2,2,3
+stir mixture,stir the mixture,2,3,2
+add cooked macaroni,add pasta,1,2,3
+spray baking dish,boil potatoes,0,2,3
+add macaroni mixture,add cheese,1,2,3
+bake macaroni,cook sausages,0,2,2
+take cheek bezoar gabon sabines garlic lemon juice tahini roasted red peppers,put some salt and pepper,0,5,12
+take ground cumin salt cayenne pepper,put in salt,1,3,6
+cut garlic and roasted red peppers,put garlic,1,2,6
+blend cheakpeas,add bell pepper,0,3,2
+add spcies into blender,add baking powder,1,3,4
+add milk egg,place eggs,0,2,3
+whisk ingredients,blend ingredients,1,2,2
+rest ingredients,take boiling water,0,3,2
+get salt in,salt,1,1,3
+adf flour,add wet ingredients,0,3,2
+add oil baking powder cornmeal,add water to pot,1,4,5
+heat oil,heat pan,1,2,2
+drain corndogs,paste,0,1,2
+cut hotdogs,slice the mixture,0,3,2
+insert sticks into hotdogs,add into flour,1,3,4
+dip hotdogs in batter,put into oil on heat,0,5,4
+place in oil,put into oil,1,3,3
+take corndogs out of oil,take brown,1,2,5
+drain corndogs,cut the dough add water,0,5,2
+serve corndogs with mustard,sprinkle onion seeds in oil,0,5,4
+slice loaf,slice out bread,1,3,2
+put in oven,place eggs in pan,1,4,3
+preheat non stick pan,heat pan,1,2,4
+fry duck,add water,0,2,2
+toast loaf,preheat pan with oil,0,4,2
+spread goat cheese,need parmesan cheese,1,3,3
+dont want rasberry coulis,put celery and mash,0,4,4
+put duck on toast,use silt set plate with peppers,0,6,4
+put fig vinegar,add caesar dressing,0,3,3
+add berries olive oil pepper and salt,add sauce and <unk>,2,4,7
+add capsicum,add sriracha garlic water,1,4,2
+add black pepper salt,add oyster sauce ground pepper,2,5,4
+refrigerate ingredients,add eggs,0,2,2
+place pork chops in saran wrap,put pork in bowl,2,4,6
+pound meat season with salt pepper,put meat in,1,3,6
+crack whisk egg put flower on plate,put into pan,1,3,7
+batter pork chops with flour egg bread crumbs,roll balls,0,2,8
+put pork chops in hot oil,saute cashews onion,0,3,6
+flip pork chops,sprinkle ingredients,0,2,3
+peel potatoes,fry spinach until with the plate,0,6,2
+boil potatoes,add hotdogs,0,2,2
+remove cool potatoes,drain off heat drain water,0,4,3
+grade potatos make hole for flour and egg,take egg and add pasta,2,5,8
+mix with spatula,add egg,0,2,3
+add salt knead dough,make egg up,0,3,4
+roll dough into dumplings,place potatoes,0,2,4
+throw dumplings in boiling water,put mixture in water,2,4,5
+drain water,take out dosa beans into the container,0,7,2
+season with black pepper basil,put in <unk> parsley,0,4,5
+add pinch of salt,add to salt,2,3,4
+cut potatoes cook potatoes add potatoes to pot,boil the add to the boil,2,4,6
+peel garlic chop garlic,mince garlic and add potato,1,5,3
+drain water add potatoes to mixing bowl stir potatoes,add butter and butter,1,3,8
+add romano cheese garlic salt oregano,add cheese mayonnaise and roasted onion,2,6,6
+put salt on tenderloins,need one parmesan,0,3,4
+put pepper on tenderloins,need garlic paste,0,3,4
+add red pepper to parmesan cheese,add pepper,2,2,6
+add paprika,add two milk,1,3,2
+mix cheese red peppers paprika,put chicken in,0,3,5
+crack eggs add heavy cream water,whisk eggs,1,2,6
+beat mixture,need water,0,2,2
+coat pork in cheese dip it in mixutre put in pork rinds,cut parmesan,0,2,9
+lay on pan,flip dough,0,2,3
+layer pork cutlets into fryer,preheat oil,0,2,5
+get excess oil off,wrap mixture,0,2,4
+cool on paperlined plate,cook for five minutes,0,4,4
+put beef in ziplock bag,place potatoes,0,2,5
+squeeze citrus into marinade,put hot from the top,0,5,4
+add oranges to bag,place ingredients,0,2,4
+massage ingredients,cover the mixture,0,3,2
+refrigerate bag,put in refrigerator,0,3,2
+sear beef,brown the pan,0,3,2
+cook for two minutes,fry the tomatoes,0,3,4
+turn beef over,stir marinade,0,2,3
+set beef aside,add tofu,0,2,3
+cook rest of beef,take cornstarch bread crumbs,0,4,4
+chop into small pieces,cut italian onion,0,3,4
+add guacamole,add tomato,1,2,2
+add lettuce onions and cheese,add cilantro and vegetables,2,4,5
+add tomato,add tomato paste green tomatoes,2,5,2
+beat egg add ice cold water add flour,whisk eggs,0,2,7
+mix ingredients,take egg,0,2,2
+press shrimp,wait minutes,0,2,2
+dip shrimp into tempura batter,preheat oil cook mixture,0,4,5
+drop shrimp into hot oil,place mixture,0,2,5
+put the potatoes into cold water,take boiling water on <unk> simmer,1,6,6
+split eggs,season with oil turn off in,0,6,2
+got egg yolk,add eggs,0,2,3
+add english mustard white wine vinegar,remove <unk> parsley,0,3,6
+hold the mixing bowl in place,heat the oil,1,3,6
+slowly add oil,add water simmer mixture,1,4,3
+chop capers gherkins and herbs,chop the tomatoes,1,3,5
+add capers gherkins and herbs to mayonnaise,add dressing mayonnaise over potatoes,2,5,7
+add salt and pepper,add salt pepper,3,3,4
+taste tartar sauce get sauce in the fridge,season the mixture,1,3,7
+check chips by inserting knife,get tofu,0,2,5
+drain potatoes put potatoes on tray to cool,boil by heat add water,0,5,7
+add flavour crumble in fresh yeast,add white mozzarella,1,3,6
+add beer,add water,1,2,2
+add salt pepper,add salt pepper,3,3,3
+cover with tea towel leave for ten minutes,cook ingredients,0,2,8
+skin the fish,remove the boil,1,3,3
+cut out bones,cut <unk> out,2,3,3
+get chips into fryer,cook bacon in,0,3,4
+pass cod fillet through flour,chop the mixture,0,3,5
+place cod fillet into batter,set mixture aside in the top,0,6,5
+drain chips,let the potatoes,0,3,2
+put cod in fryer,cook the mixture,0,3,4
+put chips back in fryer,cook ingredients with the top of shrimp,0,7,5
+add salt drain peas wedge lemon serve with tartar sauce,fry ingredients until noodles,0,4,10
+add lemongrass,add lemon juice,1,3,2
+add tumeric,add fold,1,2,2
+add curry powder,add baking powder,2,3,3
+bring mixture together,spread yolks,0,2,3
+add oil,get dough,0,2,2
+keep bringing sides of the mixture down,cover the dough,1,3,7
+store mixture in jar,stick some apple,0,3,4
+refrigerate mixture,get american stick,0,3,2
+cut eggs,cut an half,1,3,2
+grate ginger,add roll up salt,0,4,2
+take pan,peel potatoes,0,2,2
+take fermented soybean puree,add tomato,0,2,4
+take chopped chili ginger,take vodka in red chilli,1,5,4
+take tender stem broccoli,toss the roasted tofu,0,4,4
+add spices ginger lime,add cilantro,1,2,4
+boil broccoli,cook add noodles,0,3,2
+rub sesame seed oil,add sesame oil,2,3,4
+take chicken,transfer lamb,0,2,2
+add cumin powder coriander powder,add marinated meat,1,3,4
+add garam masala oil,add salt,1,2,4
+add salt,season with salt,1,3,2
+set chicken aside,cook eggs,0,2,3
+mix mixture,rest with pepper,0,3,2
+add onion to pan,add onion and add paste,2,4,4
+add ginger garlic paste,cook bacon in onion,0,4,4
+add cinnamon sticks pepper gloves mustard seeds,sprinkle pepper,1,2,7
+cook mixture,turn off onion,0,3,2
+stir mixture,stir in <unk>,1,3,2
+mix tomato puree,mix ingredients,1,2,3
+add chicken to curry,add pasta,1,2,4
+add water to chicken curry,water,1,1,5
+cover pan,turn off heat,0,3,2
+add more water cook curry,cook ingredients,1,2,5
+mix corn flour guar gum baking soda flour paprika powder pepper turmeric soy milk,add tomato paste,0,3,13
+make dough,take flour,0,2,2
+cut tofu,cut meat in,1,3,2
+stick pins into tofu,drop out tofu,1,3,4
+put dough on tofu,add water,0,2,4
+fry tofu,cut onions,0,2,2
+grate potatoes,use potato potato,0,2,2
+mix ingredients together,place in onion and pepper,0,5,3
+add flour,add flour,2,2,2
+heat oil in skillet,add olive oil,1,3,4
+bake pancakes for minutes,place butter on <unk>,0,4,4
+fry pancakes on other side,throw in onion,0,3,5
+add oil and sugar,add oil,2,2,4
+add sugarsmgmsg pork powder,add melted butter,1,3,4
+add eggs,add eggs,2,2,2
+add carrots and onions to rice,saute carrots,1,2,6
+add soy sauce,add soy sauce,3,3,3
+mix together,add sauce and curry,0,4,2
+add garlic,add garlic,2,2,2
+marinate calamari in olive oilthyme salt garlic,sprinkle sesame seeds in <unk> pasta,1,6,7
+melon ball potatoes,squeeze dough add water,0,4,3
+add potatoes to water,add salt to the boil,2,5,4
+put ume plum paste,transfer beef in bowl,0,4,4
+add soy sauce rice wine vinegar,add sauce and beef,2,4,6
+add pinot noir,start vegetable oil,0,3,3
+add mirin sesame paste pomegranate molasses,add cornstarch leaves to rice,1,5,6
+whisk in sesame oil,preheat oil in the pan,2,5,4
+add olive oil,add olive oil,3,3,3
+add calamari on pan,add pasta,1,2,4
+flip calamari,flip the rest,1,3,2
+add cherries,add bok potato,1,3,2
+brown potatoes in butter,use potato butter,1,3,4
+add salt on potatoes,add water,1,2,4
+chop up calamari,toss with paper,0,3,3
+put cherries in bowl,chop lettuce,0,2,4
+add potatoes toss salad,add pasta ground beef in water,1,6,4
+marinate chicken,roast fish into pan,0,4,2
+add juice rice vinegarchicken stockginger garlic pastebarbecue sauce,<unk> lemon juice on sauce,2,5,8
+add chili sauce,add tomato sauce,2,3,3
+add soy saucefish saucehoisin sauceworcester sauce and olive oil,add cornstarch with lamb wine,1,5,9
+mix sauce together,mix bacon,1,2,3
+fry chicken,add meat,0,2,2
+cook for five minutes,stir sauce,0,2,4
+take chicken out pan,fry chicken,1,2,4
+cook sauce until boiling,cook sauce until they sauce,3,4,4
+cut celery,cut up pita bread,1,4,2
+add onions,cool onion,0,2,2
+add chicken broth to pan,add tomato paste to <unk>,2,5,5
+boil chicken broth,add pasta parsley,0,3,3
+add chicken tenderloin to soup,add pasta,1,2,5
+add chicken tenderloins to soup cook chicken tenderloins,cook mixture until simmer,1,4,6
+add pasta,add pasta parsley,2,3,2
+add vegetables,add the add pasta,1,3,2
+cook mixture,cook potatoes,1,2,2
+take tenderloins out chop tenderloins,put chicken in the top with vegetables,0,7,4
+put tenderloins back into soup,add pasta bean sprouts green onions,0,6,5
+add spinach,throw in green onions,0,4,2
+turn off flame,turn heat down,1,3,3
+add black pepper,add pepper,2,2,3
+take italian sausage,cut the garlic,0,3,3
+add egg,put egg,1,2,2
+add italian bread crumb,add white bread,2,3,4
+add onion powder,add onions,1,2,3
+add garlic powder and salt,add salt pepper,2,3,5
+mix spices,take crab <unk>,0,3,2
+flatten the mixture,use ground beef,0,3,3
+add pepper,use pepper,1,2,2
+spread the pepper,add tabasco sauce,0,3,3
+put mixture in refrigerator,put ingredients in,2,3,4
+spray canola oil in pan,take olive oil,1,3,5
+make meatballs,roll up the flour,0,4,2
+put meatballs in oven,put chicken ginger on top of butter,1,7,4
+take meatballs out,put red bell peppers into top,0,6,3
+transfer meatballs to skillet,cook ingredients,0,2,4
+distribute flour through calamari,need potato,0,2,4
+get off extra flour,take flour add flour,1,3,4
+put calamari on plate,take paper towel,0,3,4
+sprinkle with salt,sprinkle salt on pepper,2,4,3
+put on platter serve with sauce lemon wedges,put hot dogs in bowl,1,5,8
+chop onion,peel onion,1,2,2
+heat pan,turn off heat,1,3,2
+add butter,melt butter,1,2,2
+add olive oil,add oil,2,2,3
+cook onion,add onions,0,2,2
+take out the tomato seeds,close <unk> cover with gravy,0,5,5
+chop seeds,cut chicken with one more gravy,0,6,2
+add vegetable broth,add water,1,2,3
+add salt,add chicken,1,2,2
+cover with lid,cover potatoes,1,2,3
+chop roasted bell peppers,cut cucumber and slice,0,4,4
+add roasted bell peppers,add roasted onion and add roasted onion,2,4,4
+blend mixture,add mix mixture,1,3,2
+add powder,add cheese,1,2,2
+add paprika,add pepper to plate with salt,1,6,2
+add brown sugar,add cream,1,2,3
+add heavy cream,add melted ingredients,1,3,3
+add parsley or cilantro,take <unk> cheese on top of cream,0,7,4
+heat oilghee add cashew nuts fry until golden brown,add roll off butter,1,4,9
+remove keep aside cashew nuts,heat carrots,0,2,5
+add fry mustard seeds cumin seeds chana dal,add vegetable oil,1,3,7
+add fry onions and curry leaves,toss vegetables,0,2,6
+add fry chopped green chilies and ginger,add tomato and green onion,3,5,7
+add fry tumeric powder and asafortida add mix boiled potatoes,cook mixture for onion,0,4,9
+add salt fried cashew nuts cook and stir mixture,stir egg for mixture,2,4,9
+add mix chopped coriander,add pasta and parsley,1,4,4
+heat nonstick pan with oil spread the oil evenly,place onion into oil,1,4,8
+pour spoonful of dosa batter on pan spread in circular manner,coat chicken into flour,0,4,11
+add the potato masala let it cook until crispy,add potatoes,1,2,9
+cover the dosa in half let it cook until crispy,cook ingredients,1,2,10
+detach wings,separate the tomatoes,0,3,2
+prepare chicken pieces,take small <unk>,0,3,3
+add salt,take <unk> and blend,0,4,2
+preheat oil in skillet,add bacon garlic,0,3,4
+add butter,add butter,2,2,2
+add flour to ziplock bag,put meat in,0,3,5
+shake flour,put peeled <unk>,0,3,2
+add peper,take salt pepper,0,3,2
+turn over chicken,reduce gravy,0,2,3
+fry for ten minutes,fry tomatoes for oil,2,4,4
+drain chicken,fry hotdogs in the <unk>,0,5,2
+chop fish into filletsized pieces,chop meatballs,1,2,5
+dump beer into bowl,pour the mixture,0,3,4
+dump in half teaspoon of salt,season sugar and the boil,0,5,6
+add flour,add flour,2,2,2
+crank deep fryer,fry hotdogs,0,2,3
+add two tablespoons of cornstarch,take roll off <unk>,0,4,5
+coat fish in flour dump in batter,season fry the mixture,0,4,6
+put fish into deep fryer,cook for minutes with oil,0,5,5
+add flour,take flour,1,2,2
+add semolina salt,add salt,2,2,3
+add sugar baking soda,add sugar and mix,2,4,4
+add yogurt,add flour,1,2,2
+add water,add water,2,2,2
+knead dough,whisk ingredients,0,2,2
+add oil,crush chicken ginger,0,3,2
+let dough rest,cover the mixture,0,3,3
+add oil to pressure cooker,heat oil,1,2,5
+add onion,cook onion,1,2,2
+cook onion,take onion,1,2,2
+add ginger garlic paste,add leave garlic,2,3,4
+cook mixture,add,0,1,2
+add homemade spice mixture,add sauce,1,2,4
+add channa cook mixture,cook mixture,2,2,4
+add tomatoes,add the <unk> brown wine,1,5,2
+add water,add water,2,2,2
+add red chilli powder,add chilli powder,3,3,4
+cook mixture,mix potato and blend,0,4,2
+add chickpeas,boil the mixture,0,3,2
+add water,pour water,1,2,2
+let pressure cooker whistle,boil,0,1,4
+store in small bowls,roll dough,0,2,4
+blend the garlic shallots ginger,put in add the top,1,5,5
+add cornstarch,add the <unk> beans,1,4,2
+add vegetable oil oyster sauce,add soy <unk> sauce garlic paste,2,6,5
+add sauce pepper,use pepper,1,2,3
+prcoess ingredients into paste,whisk the mixture,0,3,4
+add water to the seasoning mix marinade pork,put in <unk> basil,0,4,8
+soak the shiitake mushrooms in hot water,strain the water with the can,2,5,7
+add bones salt vinegar to pot of boiling water,add sauce,1,2,9
+drain pot,cover the mixture with pasta,0,5,2
+wash bones clean,coat the water with oil,0,5,3
+return bones in clean pot,boil water,0,2,5
+add salt,add salt,2,2,2
+cut onion radish,throw in <unk>,0,3,3
+take mushrooms,put pasta,0,2,2
+prepare wrappers,place the mixture on top,0,5,2
+scoop paste,turn the cream,0,3,2
+fold wrapper into triangle pinch edges together,dip <unk> into cream,1,4,7
+cut char sui pork into slices boil egg noodles,add water to boiling water,0,4,9
+transfer noodles into serving bowl toss with sesame oil,cook the mixture in,0,4,9
+blanch bean sprouts bok choy,add noodles,0,2,5
+place garlic chives on top of noodles,add noodles,1,2,7
+ladle hot soup over top with chinese celery green onions,soak vegetables,0,2,10
+place dough in caputo flour,put chicken in water,1,4,5
+flip dough,get chicken with onion,0,4,2
+sprinkle the surface,flip out on salt,0,4,3
+squish dough with palm flatten center,cut dough,1,2,6
+dimple the rest of pizza move the pizza around,cut dough,0,2,7
+stretch doughrotate dough,press dough,1,2,3
+pick up dough and let it hang on backs of knuckles,put meat in,0,3,11
+put it onto pizza peel put sauce on it,put mayonnaise on medium put on plate,2,5,7
+put cheese on,add sauce,0,2,3
+put on fresh basil,put pork on pan,2,4,4
+place pizza in oven give it shake,put butter in add salt,1,5,7
+rotate pizza every seconds,pop sausages in,0,3,4
+put extra vigrin olive oil on,take olive oil,2,3,6
+cut the pizza,take cut the black potato take the top,2,6,3
+place bacon strip on pan,slice onions,0,2,5
+fold bacon,roll up bread,0,3,2
+add bacon strips flip bacon strips over,use bacon,1,2,5
+pull sides of bacon strips,drain salmon into liver,0,4,5
+place bacon strips into formation,cut salmon into pan,1,4,5
+fold bacon strips,place sausage in squares,0,4,3
+fold ends of bacon strip over,throw away outer with oil,0,5,6
+cook bacon strips,cook until no layer on rice,1,6,3
+throw on cheese,put parmesan cheese in bowl,1,5,3
+cover pan,place bacon in,0,3,2
+fold sandwich place it on plate,slice <unk>,0,2,6
+cut proms,cut out the dough,1,4,2
+wash under cold water,add salt on boiling,0,4,4
+cut cucumber,cut cucumber,2,2,2
+wash vegetables drain vegetables,add water,0,2,3
+dip rice paper,remove flour,0,2,3
+place vegetables cucumber slice pork slices shrimp halves,put lettuce onions on the plate,0,6,8
+take peanut butter hoisin sauce garlic,add tabasco garlic,1,3,6
+add oil,add olive oil,2,3,2
+add garlic,add sauce,1,2,2
+add broth peanut butter sugar simmer the sauce top it up with chilli crushed peanut,add cornstarch lemon juice on top,2,6,14
+melt four ounces of butter add garlic,add garlic,2,2,7
+stir garlic,add garlic powder,1,3,2
+add onions celery and spices,add roasted,1,2,5
+cover quahogs with water,add cilantro and green onions,0,5,4
+strain and stir the quahogs,add pasta,0,2,5
+lower the flame add flour,keep stir pasta,0,3,5
+cook for five minutes add broth keep stir,cool onion until add potatoes,1,5,8
+cook for another ten minutes,add pasta,0,2,5
+add quahogs redskin potatoes,have potatoes,1,2,4
+add cream,add cream,2,2,2
+ladle out the chowder,add pasta,0,2,4
+take kosher salt,add water,0,2,3
+sprinkle kosher salt black pepper on chicken,add sauce,0,2,7
+season chicken,cook hot sauce,0,3,2
+take garlic powder,take garlic,2,2,3
+add onion powder,take chopped onion,1,3,3
+add unsalted butter,melt butter,1,2,3
+wash chciken,season with salt,0,3,2
+drain on paper towel,drain carrot,1,2,4
+sprinkle garlic powder,add mayonnaise,0,2,3
+pour hot sauce on chicken,get pasta in,0,3,5
+add wings to hot sauce,need <unk> in cream,0,4,5
+crack egg into boiling water,leave eggs,0,2,5
+place smoked salmon on bagel,simmer,0,1,5
+place tomato on salmon,cut garlic,0,2,4
+cut avocado place avocado on bagel,slice mixture,0,2,5
+add egg on bagel,sprinkle egg,1,2,4
+add butter to hollandaise,add cream,1,2,4
+add lemon,add hotdogs,1,2,2
+add salt pepper,cook bacon,0,2,3
+whisk hollandaise,add cheese,0,2,2
+drizzle hollandaise over bagel,blend ingredients,0,2,4
+garnish with basil,put fresh,0,2,3
+dip chicken into the egg and bread crumbs,need egg,1,2,8
+spoon olive oil over top of chicken,get butter on the top,1,5,7
+sprinkle salt on chicken,take salt,1,2,4
+spoon tomato sauce into center of chicken breast,add cream,0,2,8
+put cheese on top of chicken,take parmesan cheese,1,3,6
+cover pyrex with foil,use paper towel,0,3,4
+put chicken parmesan in oven,leave it heat for one hour,0,6,5
+add vegetables,add bowl with bowl,1,3,2
+turn off router,put the filling of water,0,5,3
+add kosher salt,add sugar,1,2,3
+massage salt on vegetables,add salt sugar,1,3,4
+add ginger garlic,add garlic paste,2,3,3
+add korean red pepper powder,add pepper,2,2,5
+add brown sugarrice vinegar,add vinegar,2,2,4
+make creamy paste,add yolks,0,2,3
+add roasted sesame seeds,add sauce,1,2,4
+take salt and pepper onion scallion,take onion and <unk>,3,4,6
+take tomatoes,take tomatoes,2,2,2
+take lemon juice parsley,add fresh parsley,1,3,4
+take extra vergin olive oil,add olive oil,2,3,5
+add boiling water,transfer in water,1,3,3
+put ingredients in bowl,put on,1,2,4
+add onions chopped tomatoes,put in add tomato paste,1,5,4
+add salt and pepper olive oil,add cilantro and mix ingredients,2,5,6
+squeeze lemon juice,add celery,0,2,3
+toss the mixture,spread in the chorizo,1,4,3
+add butter to pan,add butter,2,2,4
+add salt and pepper to eggs,add salt pepper and water,4,5,6
+bring mixture to centre,place into vegetable paste,0,4,4
+flips over eggs,wait minutes,0,2,3
+add veggies,add bell peppers,1,3,2
+add parsley,add roasted red bell pepper,1,5,2
+take sugar,mix ingredients,0,2,2
+take bourbon,get vodka in the top,0,5,2
+take glasses ice,take hotdogs,1,2,3
+add sugar in glass,add sugar,2,2,4
+add ice cubes,slice the blender,0,3,3
+take olive oil,take olive oil garlic parsley,3,5,3
+add garlic tomatoes,combine ingredients with bacon,0,4,3
+pour vodkacream,dump soy sauce,0,3,2
+boil vodka,turn chicken,0,2,2
+add chicken cutlet to pan,cover the lid cook,0,4,5
+reduce the heat cover pan cook cutlet,cook the chicken,2,3,7
+mix pasta with sauce,blend the mixture,0,3,4
+cut up chicken,take spring bread,0,3,3
+season chicken and coat in flour,take <unk> potatoes on top,0,5,6
+oil skillet,heat oil,1,2,2
+fry at degrees,heat olive oil,0,3,3
+fry for minutes,fry rolls with rolls,1,3,3
+drain chicken,slice eggs,0,2,2
+season chicken,chop <unk>,0,2,2
+cut onions chop onions,throw in chopped onion,0,4,3
+peel ends of carrot peel carrots,cut carrot,1,2,5
+fry onions in pan,cook tomatoes in the top with onion,1,7,4
+add worchestshire sauce beef stock,add beef parmesan cheese,2,4,5
+pour water,boil meatballs,0,2,2
+stir mixture simmer mixture,cook mixture,1,2,3
+chop potatoes boil potatoes,put in boiling water,0,4,3
+strain potatoes,place potatoes,1,2,2
+pour milk to potatoes,peel and add potatoes,1,4,4
+simmer potato mixture,mash potatoes,0,2,3
+stir potato mixture,blend the butter,0,3,3
+leave meat sauce into dish,serve with bacon,0,3,5
+spread mashed potato mixture on meat sauce,use pepper to potatoes,0,4,7
+flatten mixture,lay it on flour,0,4,2
+draw lines on mixture,cook potato mixture,1,3,4
+crush salted crisps,throw in flour,0,3,3
+sprinkle cheese on cottage pie,place lamb shanks in bowl,0,5,5
+put cottage pie in oven,preheat oven,1,2,5
+mix soy sauce spicy sauce with sugar,add sauce seeds salt,1,4,6
+take sliced cucumber crab stick avocado sliced tomago,cut romaine apple,0,3,7
+place japanese sushi rice on makezu,take ground beef in bowl,0,5,6
+spread nori seaweed,chop <unk>,0,2,3
+spread rice on nori seaweed,spread mayonnaise,1,2,5
+flip the side,sprinkle spring <unk>,0,3,3
+spread mayonnaise on seaweed,get mayonnaise on <unk>,2,4,4
+spread caviar on roll,use silt cheese,0,3,4
+put sesame seeds,add tomato sauce,0,3,3
+take knife,crush the chopped onion,0,4,2
+cut sushi roll,cut sushi,2,2,3
+cut shrimp,take eggs,0,2,2
+add cooking oil add pork add shrimp,heat shrimp,1,2,5
+season with sugar and soy,add sauce,0,2,5
+add chinese chives salmon balck pepper sesame oil,take rice add water,1,4,8
+put filling,add the milk from the top,0,5,2
+wrap both sides,pour up the tomatoes,0,4,3
+deep fry spring roll,fry onion with potatoes,1,4,4
+stretch the dough add shredded mozzarella cheese,sprinkle seasoning,0,2,7
+put chopped tomato and tomato sauce into oven,add sauce vinegar,1,3,7
+finish with more cheese fresh basil,sprinkle parsley,0,2,6
+mix bread crumbs parmesan cheese and panko,add flour,0,2,7
+put chicken cutlet into egg then coat it in cheese and bread crumb mixture,slice the bread,1,3,14
+fry chicken cutlets,cut the rolls with carrots,0,5,3
+put cutlass on paper towels,take the tofu avocado,0,4,5
+put cutlets on cookie sheet,put water,1,2,5
+put marinade on chicken,put hot on,2,3,4
+put mozzarella cheese slices on top of chicken,put some potato in the top,2,6,8
+put chicken into oven,put olive oil,1,3,4
+take garlic rosemary,take <unk> garlic,2,3,3
+remove chicken skin pile rosemary leaves,set <unk> aside,0,3,6
+grill the chicken,put hot dog in oven,0,5,3
+take lemon orange,add green onions,0,3,3
