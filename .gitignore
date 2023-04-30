@@ -26,6 +26,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+tmp/
+.DS_Store
 
 *.tar.gz
 *.json
