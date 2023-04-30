@@ -35,3 +35,10 @@ Project Organization
 - Self-attention on visual features: `notebooks/yc2_self_attn.ipynb`
 
 **Knowledge Extraction**
+- T5 Small: `notebooks/2_1_Knowledge_Extraction_T5small.ipynb`
+- T5 Base: `notebooks/2_2_Knowledge_Extraction_T5base.ipynb`
+- BART: `notebooks/2_3_Knowledge_Extraction_BART.ipynb`
+- BART (with Coreference Resolution): `notebooks/2_4_Knowledge_Extraction_BART_Coref.ipynb`
+- Attention LSTM (Visual-only): `notebooks/2_5_Knowledge_Extraction_Attention_LSTM_Visual.ipynb`
+- Attention LSTM (Multimodal): `notebooks/2_6_Knowledge_Extraction_Attention_LSTM_Multimodal.ipynb`
+- Multihead Transformer (Multimodal): `notebooks/2_7_Knowledge_Extraction_Multihead_Transformer.ipynb`
