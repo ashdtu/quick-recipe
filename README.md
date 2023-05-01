@@ -14,6 +14,7 @@ Project Organization
     ├── models             <- Save any model weights here
     ├── notebooks          <- Notebooks for running experiments
     ├── scripts            <- Youcook scripts
+    ├── attn-lstm          <- Attention-LSTM training and evaluation scripts
     ├── src                <- Model training and evaluation code
         ├── models         <- Model classes
         ├── processing     <- Data processing scripts
@@ -42,3 +43,39 @@ Project Organization
 - Attention LSTM (Visual-only): `notebooks/2_5_Knowledge_Extraction_Attention_LSTM_Visual.ipynb`
 - Attention LSTM (Multimodal): `notebooks/2_6_Knowledge_Extraction_Attention_LSTM_Multimodal.ipynb`
 - Multihead Transformer (Multimodal): `notebooks/2_7_Knowledge_Extraction_Multihead_Transformer.ipynb`
+
+### Scripts
+#### Attention LSTM
+**Train**
+```
+cd attn-lstm
+# For training Attention LSTM Visual model
+python train_visual.py
+
+# For training Attention LSTM Multimodal model
+python train_multimodal.py
+```
+
+** Evaluate**
+```
+cd attn-lstm
+# For training Attention LSTM Visual model
+python evaluate_visual.py
+
+# For training Attention LSTM Multimodal model
+python evaluate_multimodal.py
+```
+
+#### Multihead Transformer
+**Train**
+```
+cd multihead-transformer
+python prepare_dataset.py
+python main_multimodal.py
+```
+
+** Evaluate**
+```
+cd multihead-transformer
+python evaluate_multimodal.py
+```

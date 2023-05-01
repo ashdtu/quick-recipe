@@ -1,0 +1,2061 @@
+2 cut salmon into loins
+3 skin salmon
+8 cut against the grain
+265 cut mushrooms
+266 cut courgettes
+271 use potato
+277 add salt
+278 put in sliced ingredients water
+279 put lid on
+285 get rice
+295 add water to pan mix soup mix to water
+297 add vinegar
+298 add soup to bowl
+316 brown bratwurst
+317 add onions
+323 shred cabbage
+335 put cabbage in
+338 use tomatoes beer
+340 use salt pepper
+368 drain separate beef
+374 add flour
+390 take beef meat
+393 put red carrots
+413 take fish broth
+414 take green onions meso paste tofu fermented soybeans
+420 cut tofu
+429 put bonito flakes in boiling water
+446 cut slits on shrimp
+448 use salt sugar
+449 add garlic powder ground pepper
+450 remove meat from the shell
+456 batter shrimp fry shrimp
+457 put shrimp on
+458 batter lobster tail fry lobster tail
+471 sell shrimp in milk
+473 combine mayonnaisesweet chilli sauce
+474 combin bread crumbs cornstarch
+475 heat oil
+476 take shrimp to constarch mixture fry shrimp
+478 dry shrimp
+479 put in small bowls
+571 take one onion
+574 cool onion garlic
+575 chop salami
+580 mix mixture in bowl
+581 put in turkey
+591 add olive oil bread crumbs
+604 put in milk
+608 put olive oil on baking sheet
+614 put meat and chese to baking sheet
+615 flatten out meat
+616 get rid of air bubbles
+628 preheat oven
+631 cook meatloaf
+645 serve with marinara sauce
+653 cut pita bread into squares
+660 put olive oil
+684 slice onions
+685 separate ringlets
+692 add salt
+695 mix egg milk
+794 frozen meat
+795 add salsa
+797 want water chilli powder salt cumin
+798 simmer mixture
+800 break mixture
+801 reduce liquid
+803 turn off heatget refried beans
+807 reduce mixture mash beans
+814 build burrito
+816 blend cheese
+823 take fresh parsley fresh mint
+824 take spring onion
+825 take cucumber tomato lemon olive oil
+826 add bulgur wheat toiling water
+828 chop mint leaves
+830 move cucumber seeds
+831 chop cucumber and tomato
+834 season with salt pepper cinamon
+843 add cornmeal
+846 add flour
+847 add baking soda salt sugar
+848 add egg milk
+881 start with olive oil and white wine vinegar
+882 add dijon mustard salt pepper whisk ingredients
+883 set dressing aside
+884 mix mayonnaise and lemon juice
+887 peel apples
+889 cut apples
+891 cut celery stalks
+893 chop walnuts
+896 mix vinegarette with apples
+902 drizzle mayonnaise dressing over salad
+1084 rinse quinoa
+1087 dump quinoa in saucepan
+1090 add cold water walt
+1092 bring to simmer
+1093 stir mixture
+1094 cover saucepan
+1095 reduce heat
+1096 dice up smoked hame
+1101 put vegetable oil on frying pan
+1103 dump in cook stir ham peppers onions
+1108 throw in minced garlic
+1109 turn off heat
+1113 fluff quinoa
+1118 dump quinoa in frying pan
+1120 stir quinoa into mixture
+1123 season with rice vinegar soy sauce
+1134 finish with toasted sesame seeds
+1189 move dosa batter into smaller container
+1192 add salt into batter
+1193 mix batter up
+1198 sprinkle cold water on pan
+1199 spread spoonful of batter onto pan
+1200 put cover on pan
+1216 sprinkle desi gheeoil set tablespoon of potato filling onto the center of the dosa
+1221 close the dosa from the sides take it out onto plate
+1240 blend up the spice mix
+1244 add garlic ginger onions into blender
+1247 add everything other than lamb blend well
+1248 lighlty brown lamb pour sauce over lamb put pot lid on leave to simmer
+1249 replace the lid move off direct heat
+1252 give stir replace lid
+1254 serve with rice
+1269 take spatula
+1270 press burger
+1271 cook burger
+1272 season with salt and pepper
+1279 turn burgers
+1285 turn burger
+1286 turn burger
+1288 add cheese
+1295 pick burger
+1323 chop vegetables
+1324 put vegetables in pan
+1325 add salt pepper and mishu
+1327 put veggies on rice and garnish
+1336 use ground turkey
+1339 add bread crumbs onion flakes
+1341 add milk
+1343 beat egg
+1345 add meat into bowl
+1346 add soy sauce
+1348 use pepper
+1352 fold ingredients
+1359 line cookie sheet with foil
+1360 put meat mixture into foil
+1361 add brown sugar
+1364 top meatloaf with sauce
+1368 put into oven
+1370 cook loaf
+1372 let meatloaf rest
+1374 slice meat loaf
+1437 add sushi rice
+1441 add sushi vinegar to rice
+1447 cut tuna
+1449 lay tuna on rice
+1452 add sriracha chilli sauce
+1454 mix garlic salt
+1456 put little layer on your tuna
+1459 add water to fingers
+1460 roll sushi
+1507 take ground beef and veal
+1508 add bread crumb and milk
+1509 take egg italian herb granulated garlic red pepper flakes
+1512 add black pepper white pepper and salt
+1513 add parmesan cheese
+1515 transfer mixture
+1519 shape meatballs
+1521 brush aluminium foil with oil
+1528 fry meatballs
+1531 simmer meatballs
+1535 put it over spaghetti
+1556 take rice noodles chicken eggs shrimp
+1557 take roasted peanuts chopped turnips tofu
+1558 take chopped garlic chopped red onion beasprout garlic chives green onion
+1560 take dried roasted chilli pepper
+1561 take palm sugar tamarind sauce
+1570 add fish sauce coconut palm sugar
+1580 heat pan
+1581 add oil
+1583 add red onions garlic
+1584 add diced tofu
+1589 add turnips
+1592 add dried shrimp
+1609 stir the mixture
+1615 add oil
+1616 add eggs
+1622 add sauce
+1624 add bean sprout
+1625 add chives
+1626 add garlic
+1627 add roasted ground pepper
+1634 add green onion squeeze lime
+1649 cut between liver lobe
+1650 devein liver
+1656 clean liver
+1661 use paper towel
+1666 put salt and pepper on plate
+1667 cover liver with seasoning
+1676 let sit for hours
+1681 warm water
+1682 put in oven
+1686 take cognac on liver
+1692 place the dish with liver in water bathe
+1693 leave for hour
+1700 cool for an hour
+1713 put chicken breast in bowl with wine and starch cut cucumber and leeks
+1714 crush the garlic slice cut ginger
+1715 prepare sauce
+1717 quick fry sichuan peppercorns
+1719 remove sichuan peppercorns add and stirfry chicken
+1720 stirfry chili ginger garlic cucumber leeks and peanuts
+1721 stir sauce
+1739 take pita bread
+1740 take olive oil salt pepper lemon red bell pepper chick peas tahini hot sauce and garlic
+1741 roast red bell pepper
+1746 remove burnt skin
+1750 take chopped garlic
+1751 mix garlic with roasted red bell pepper
+1752 take chickpeas
+1754 add tahini lemon juice hot sauce kosher salt
+1755 add little water
+1763 take pita bread
+1764 cut the bread
+1765 place bread on tray
+1772 take olive oil salt and pepper
+1773 add garlic powder
+1775 add dried oregano chilli cumin
+1776 sprinkle salt and pepper
+1794 add in some marinated artichokes
+1814 put oil in the pan chop up onion garlic
+1817 saute onion garlic
+1820 drain white kidney beans
+1823 add touch of water
+1827 dump red beans into blender
+1828 add water
+1835 add sauce
+1839 dump white canelli beans four cups of water
+1840 crank heat on high
+1843 add red beans
+1844 mix the mixture
+1846 cut and add parsley basil
+1847 add salt and pepper
+1860 add cup of ditalini pasta
+1862 lower heat to mediumlow simmer pasta
+1870 add baby spinach
+1871 add small cherry tomatoes
+1874 crank heat on high
+1883 get pasta fagioli in the plate
+1886 pull romano cheese on top
+1887 put fresh parsley on the top
+2032 peel and chop onion
+2033 mince garlic
+2036 cook onion and garlic until tender
+2037 add stewed tomatoes
+2038 add cantalini
+2039 stir in broth
+2040 stri in parsely basil and pepper
+2041 add pasta then let simmer for ten minutes
+2049 mix water tamaring concentrate fish sauce palm sugar cut tomatoes
+2050 wash shrimp pat dry shrimp
+2051 cut pineapple
+2052 add tamarind sauce fish sauce sugar to pan boil mixture add shrimp pineapplebean sprouts cook mixture
+2070 take napa cabbage
+2072 take scallion julian
+2073 take carrot julian red onion cucumber
+2080 add chilli paste
+2082 add ginger
+2083 add garlic
+2086 add sugar
+2087 add brown sugar
+2090 add lemon grass
+2096 take sesame
+2100 mix vegetables pepper sesame lemongrass leafs garlic ginger
+2102 add fish sauce
+2116 add sesame oil
+2196 take napa cabbage
+2197 take sea salt
+2198 mix salt and cabbage
+2199 wash cabbage
+2200 drain water
+2202 add ginger garlic paste sugar finely chopped onion and carrot korean red pepper
+2203 add red flakes salt
+2204 transfer kimchi to container
+2254 heat non stick pan
+2255 add white bread
+2261 add margarine
+2265 add cheese
+2278 slice sandwich
+2349 add butter into skillet
+2350 melt butter
+2351 throw in onions
+2352 add celery green peppers
+2355 add garlic cook mixture
+2358 add beef stir mixture
+2360 add eggs spices
+2365 add barbeque sauce
+2368 add chilli sauce worchestshire sauce milk
+2369 toast buttered breadcrumbs
+2371 combine ingredients
+2380 add meat on loaf pan
+2386 spread barbeque sauce on meatloaf
+2387 preheat oven place meatloaf in oven
+2389 sprinkle onion flakes parsley
+2391 slice meatloaf
+2394 serve with scallop potatoes
+2436 add soy sauce sugar rice wine brown ginger
+2437 add ground garlic bonito fish
+2438 add seaweed boil tare sauce
+2440 cut out skin
+2441 roll up pork belly
+2442 put oil pork belly into pan boil for one hour
+2443 add chicken bone seaweed bonito fish dried shrimp dried scallop sliced ginger chicken feet
+2444 add water boil broth
+2446 boil ramen
+2448 add broth into bowl
+2470 soak fava beans garbanzo beans over night
+2477 blend beans
+2481 place beans in bowl
+2483 heat oil in pan
+2496 blend onion
+2498 add cilantro parsley
+2501 add garlic
+2503 blend ingredients
+2507 add mixture to beans
+2512 add breadcrumbs
+2513 add salt
+2514 add coriander
+2516 add cayenne pepper
+2518 add black pepper
+2520 add water
+2524 place paper towel on dish
+2526 shape falafels
+2527 drop into oil
+2547 take worchester sauce
+2548 take garlic butter butter paprika lemons peeled shrimp
+2551 add butter lemon juice chester sauce
+2552 add garlic salt microwave mixture
+2553 put scallops and shrimp in sealable bag
+2565 add shrimp
+2573 add green onions and garlic
+2574 add mushroomminced garlic
+2575 add honey powder brown sugar soy sauce rice wine
+2576 add sesame seed oil honeyblack pepper
+2591 coat chicken pieces
+2592 fry chicken
+2596 add cornstarch soy sauce garlic sugar stock vinegar
+2601 saute chilli and onions
+2604 cook soy sauce and cornstarch
+2605 stir in chicken
+2606 cook for five minutes
+2607 serve with white rice
+2713 wash lettuce
+2714 pat lettuce dry
+2715 chop lettuce
+2716 chill lettuce
+2718 set lettuce aside
+2730 add mayonnaise to food processor
+2731 add parmesan
+2737 add lemon juice
+2742 add olive oil
+2743 add dijon mustard
+2744 add sugar
+2745 add garlic
+2750 add anchovy paste
+2764 add pepper
+2765 add salt
+2767 blend mixture
+2778 add dressing to lettuce
+2780 add croutons
+2782 add black pepper
+3056 peel potatoes
+3057 cut potatoes
+3060 add potatoes
+3061 fill cold water
+3062 put potatoes on stove boil potatoes
+3063 turn off heat drain water
+3071 heat milk heat butter
+3072 add to potatoes
+3075 add butter
+3077 add crame fresh
+3079 add salt and pepper
+3085 cut onion rings
+3088 push onion rings out
+3089 put onions in bowl
+3090 add water milk
+3091 soak onions add oil to pot
+3092 measure temperature
+3109 take onions to flour
+3112 place floured onions into milk mixture
+3115 place coated onions into flour
+3119 roll onions into flour
+3127 heat oil to degrees
+3130 fry onion rings
+3138 cool onion rings
+3178 pour the kidney beans in the pot
+3181 get flavor out of the can
+3182 put in water
+3185 put in oregano
+3186 add basil
+3190 put salt in
+3191 add black pepper
+3192 get wet garlic
+3198 put in onions
+3200 simmer sauce
+3202 cook elbow macaroni
+3203 put some macaroni in bowl
+3204 steel soup
+3207 add few drops of tabasco
+3266 place yolks in bowl
+3267 add pot of water underneath
+3268 add lemon juice
+3270 cook eggs
+3272 add butter
+3273 whisk egg mixture
+3274 season with salt pepper
+3287 slice the shallots
+3292 cut the roots
+3293 separate the stems and leaves
+3297 dump shallots chai sim in wok
+3300 add salt to boiling water
+3304 add oil
+3307 saute shallots
+3319 dump in soy sauces oyster sauce
+3342 take anchovy paste
+3350 add lemon juice
+3351 add egg yolks
+3353 add mustard
+3357 mix ingredients
+3364 add cheese
+3365 add garlic
+3366 add salt
+3368 add olive oil
+3370 add lemon juice
+3371 add garlic
+3375 add lettuce
+3382 mix ingredients
+3471 boil potatoes
+3472 cook onions bacon add mince meat
+3473 add ketchup steakhouse marinade
+3474 cook mixture set mixture aside add salt pepper milk to potatoes mash mixture with mince meat mixture
+3475 add chedder cheese
+3477 brown onions in oil fry cashews raisins add paste of spices
+3478 add tomatoes green peppers
+3479 add in stir vegetables
+3480 add coriander salt
+3481 add mix saffron to the rice
+3482 grease baking dish with oil
+3483 layer rice and vegetables alternatively
+3484 sprinkle milk on top
+3485 add onions cashews raisins put biryani in oven
+3491 place potatoes in cold water
+3493 place potatoes on stove
+3494 add salt
+3496 boil potatoes
+3498 mash potatoes
+3500 cook fried sausages in oven
+3505 pop sausages in pan
+3508 make brown onions
+3509 slice onions
+3511 add butter to potatoes
+3513 add cream mustard
+3516 add brown gravy
+3517 drain mustard mash
+3594 add lemon juice
+3595 slice chicken
+3596 fry chicken
+3598 cook bacon croutons
+3605 pour boiling water into pan
+3606 simmer water poach eggs
+3611 soak rice
+3612 add lemon and salt
+3614 cook until whistling
+3616 cut chicken and add pepper
+3617 add cornflour
+3618 add soy sauce and salt
+3619 marinate chicken and fry
+3620 beat egg in bowl
+3621 saute in pan
+3622 add ginger garlic and onion
+3624 add carrot and capiscum
+3625 scramble egg and mix with vegetables
+3626 add soy sauce and chilli
+3628 add pepper and vinegar
+3631 add green onions
+3638 cut grapes
+3642 peel apple mayonnaise
+3643 add lemon juice salt black pepper lettuce
+3647 add salt pepper
+3648 rest ingredients
+3724 chop cabbage
+3725 place cabbage in jars
+3739 add sugar
+3740 add salt
+3742 add vinegar
+3743 add boiling water
+3752 store jar
+3766 separate yolks
+3769 place water underneath
+3774 stir egg yolks
+3775 simmer mixture
+3779 melt butter
+3780 put into yolks
+3782 whisk mixture
+3785 adding butter
+3795 turn off heat
+3799 add tabasco sauce
+3801 add lemon juice
+3802 put in salt
+3809 leave it in warm water
+3810 cover mixture
+3811 toast muffins on pan
+3812 heat bacon
+3816 poach egg
+3973 add chilli bean saucegarlic
+3974 take tofu
+3976 heat the pan add oil
+3977 add minced garlic
+3978 add chilli bean sauce pork
+3983 add tofu toss mixture
+3984 add water
+3986 prepare cornstarch slurry
+3987 add scallion add sesame oil
+3996 mix yeast sugar warm water in bowl
+3997 add onion seeds salt baking powder
+3998 add flour mixture oil yogurt knead dough
+3999 add milk
+4000 cover dough with clingfilm
+4002 heat grill divide dough
+4003 roll dough
+4004 place on pan
+4054 preheat oven
+4056 put tomatoes in pan
+4063 add garlic
+4069 add shallots
+4073 add hot pepper flakes dried oregano sugar balsamic vinegar basil extra virgin olive oil
+4080 mix ingredients
+4083 pop in oven
+4096 put tomatoes in blender
+4105 puree mixture
+4107 pour mixture in saucepan
+4111 add vegetable stock
+4125 smear butter on bread slices
+4130 put mozzarella between bread slices
+4205 saute onions bell pepper jalapenos
+4207 roll the bacon around the hot dog
+4217 add mustard ketchup
+4218 add mayonnaise
+4228 take immitaion crab meat avocado
+4229 take seaweed rice vinegar mayonnaise
+4232 mix rice vinegar in rice
+4235 make rice sticky
+4240 put mayonnaise in crab meat
+4243 spread rice evenly
+4246 place crab meat avocado on rice
+4247 sprinkle sesame seeds
+4264 cut the sushi roll
+4273 take olive oil garlic honey juice cheakpeas salt
+4274 add bonzo beans garlic chickpeas tahini
+4275 add lemon juice
+4276 add olive oil salt
+4277 add water
+4281 drizzle olive oil
+4282 garnish with paprika black olive
+4402 mix all ingredients together
+4404 let mixture sit for five minutes
+4409 preheat grill
+4410 grease grill
+4417 put mixture onto griddle
+4418 flip mixture
+4424 cook for another seconds
+4505 microwave noodles
+4506 add oil to wok add garlic ginger
+4507 add vegetables
+4520 add sugar
+4534 take sweet italian sausage
+4535 add onion and garlic powder
+4536 add italian seasoning and salt
+4537 add black pepper
+4543 add beef broth
+4544 make meatballs
+4563 add tomato sauce
+4564 add italian seasoning
+4565 add dry oreganoonion garlic powdersalt pepper
+4566 stir the mixture
+4567 add pasta
+4577 mix tuna salt pepper mayonnaise
+4579 roll ingredients
+4583 cut sushi
+4586 wipe knife between cutting
+4598 preheat grill
+4601 place ham on bread
+4602 butter bread
+4603 line baking tray
+4604 place sandwiches on pan
+4605 fry sandwich
+4606 sprinkle sandwich with cheese
+4607 grill sandwich
+4611 cut chicken
+4616 aunt in oil to pan
+4620 add chicken
+4621 stir chicken
+4623 cook chicken
+4624 add water
+4625 make taco seasoning
+4629 get rice in bowl
+4631 add black beans
+4633 add cilantro
+4634 mix ingredients
+4635 add salt pepper
+4639 roll up burritos
+4642 add mixture to taco
+4644 sprinkle cheese
+4646 wrap mixture
+4704 put peeled potato in water
+4705 rinse off starch
+4713 drain potatoes
+4716 melt butter in skillet
+4719 add potatoes to skillet
+4723 let hash browns sit
+4724 season hash browns
+4726 add pepper
+4731 stir after minutes
+4732 flip hash browns
+4737 keep stirring crust
+4738 cook for two minutes
+4767 take carrots mini shallots
+4768 take shredded mushrooms
+4772 take red thai dried chillies
+4773 take ground black pepper garlic minced
+4774 take corn startch
+4776 soak vermicelli noodles
+4779 take rice paper wrappers luke warm water
+4780 wet the rice paper
+4783 place pork log on rice paper
+4786 fold rice paper
+4787 roll up like burrito
+4791 fry the rolls
+4792 preheat oil put rolls in oil
+4807 mash potatoes
+4808 add soaked potatoes and bacon
+4809 add flour baking soda salt and pepper
+4810 fry mixture
+4811 add butter to pan
+4815 cook potato mixture
+4817 cook for ten minutes
+4819 top them with cream
+4820 add salmon
+4877 peel and spread potatoes
+4879 add salt and water
+4880 leave potatoes in water
+4882 strain potatoes
+4886 remove excess water
+4888 add butter
+4893 let potatoes cool
+4894 add onion powder
+4895 add water
+4896 mix together with rice flour
+4898 flatten dough
+4899 refrigerate dough for four hours
+4905 fry hash browns
+5095 take onion garlic dried chilli pepper flakes vodka
+5096 take boiled tomatoes pasta water heavy cream cheese olive oil salt pepper
+5097 add onion garlic pepper mix oil
+5099 add garlic
+5101 add tomatoe pure heat mixture add cream simmer the mixture
+5102 add vodka
+5109 add herbs
+5117 take chickpeas
+5118 add garlic
+5119 put in onion
+5121 add corainder parsley
+5123 add olive oil blend ingredients
+5125 add salt pepper
+5126 add corander powder chilli
+5130 add baking soda
+5133 add oil
+5140 mould mixture
+5160 drop mixture into oil
+5352 add cheese to whipped eggs
+5360 cut up bacon
+5364 cook bacon with onion and garlic
+5367 put in pepper
+5375 strain bacon
+5376 throw pasta in skillet
+5379 put sauce on top of pasta and bacon
+5497 peel potatoes
+5509 cook potato for one minute
+5520 preheat pan
+5522 add oil
+5529 squeeze moisture from potato
+5544 add salt and pepper
+5548 preheat pan
+5549 shake oil
+5552 bring edges in
+5556 wait minutes then turn hash browns
+5564 check bottoms of hash browns
+5568 flip hash browns
+5580 leave for minutes
+5603 take boiling water
+5605 add noodles cook noodles
+5608 add oil ginger
+5610 cut carrot onions
+5612 add rice wine
+5615 add curry
+5618 add crab fish sauce fish sauce
+5619 add shrimp
+5622 stir fry ingredients
+5624 add noodles
+5625 mix ingredients
+5637 add cream
+5639 add butter cheese
+5640 need garlic
+5643 cut potatoes
+5645 add potatoes
+5647 melt butterthrow ingarlic
+5650 stir in cream
+5652 add potatoes
+5654 strain potatoes
+5655 mix potatoes
+5656 mash potatoes
+5657 pour in cream
+5658 whisk potaotes
+5659 stir in parmesan cheese
+5660 add salt pepper
+5695 put oil in pan
+5697 put an egg in
+5698 add pork bean sprouts green onions
+5699 put rice in
+5703 put soy sauce
+5718 cut bell peppers into slices
+5721 put onions bell peppers into bowl add oil
+5722 add salt pepper mix salt pepper smash garlic
+5725 cut slices of provolone cheese
+5728 cut the italian sausages into halves
+5731 mix balsamic vinegar olive oil salt pepper
+5735 place sausages on indirect heat add provolone cheese on top close the lid
+5737 paste marinade
+5739 roast bread rolls
+5744 add sausage put bell peppers onions
+5774 mix flour baking powder salt
+5775 add milk oil
+5782 add liquid
+5786 knead dough
+5789 put oil to dough balls
+5791 rest dough balls in warm spot
+5792 spread butter
+5804 heat baking pan
+5806 cook dough
+5868 add water to flour
+5869 add salt
+5870 make dough add water
+5873 flour surface pro dough
+5876 put dough in bowl
+5877 rest dough
+5878 pop dough on board
+5879 cut dough
+5880 heat pan
+5881 press dough ball
+5883 roll dough
+5886 take dough on pan
+5887 heat dough
+5888 flip dough flip dough again
+6010 add green onion
+6011 add cooking rice wine garlicbrown sugar
+6012 add sesame oil
+6016 mix ingredients
+6017 put in refrigerator
+6031 add soy sauce to pork
+6033 add water
+6034 submerge pork
+6035 skim off foam simmer pork
+6038 take distilled vinegar
+6039 add sugar salt
+6040 whisk ingredients
+6041 add carrot
+6043 stir mixture
+6044 marinate mixture
+6050 add sugar
+6056 drain carrot mixture
+6061 slice baguette
+6062 spread mayonnaise
+6064 add butter
+6068 add lettuce leaves
+6071 add pickled vegetables
+6073 add cilantro
+6075 add jalapeno
+6076 add pork
+6088 add olive oil add onion
+6092 put in bulb
+6094 add vegetables
+6095 add green beans
+6096 add celery
+6097 add zucchini
+6098 add vegetables
+6099 cook vegetables
+6100 add white kidney beans
+6101 add tomatoes
+6102 add vegetable broth
+6103 add water
+6104 add carrot
+6106 add basil add oregano
+6107 add pepper
+6110 add salt
+6112 stir the mixture
+6113 cook the mixture
+6114 add spinach
+6118 add pasta
+6124 add parmesan
+6255 melt butter
+6256 cook onions
+6260 add onions to butter
+6264 mix flour salt egg and water
+6266 stir mixture
+6277 knead dough
+6282 let dough rest for ten minutes
+6290 add onions to mashed potato
+6292 add the rest ingredients
+6305 spread out the dough
+6310 cut dough into circles
+6320 fold over pierogi
+6336 boil pierogi until they float
+6338 add pierogi to frying pan
+6369 remove core of cabbage
+6370 shred cabbage
+6381 add salt to caraway seeds
+6386 add caraway seeds to cabbage
+6388 sit cabbage
+6390 massage cabbage
+6391 squeeze cabbage
+6398 transfer cabbage to mason jar
+6400 place cabbage into jar
+6404 submerge cabbage
+6407 cover jar
+6414 label jar
+6416 sit cabbage
+6482 take onion
+6483 take parmesan cheese butter black pepper parsly
+6484 take heavy cream marinara sauce
+6487 take vodka sauce
+6490 take olive oil
+6498 add salt
+6502 add grated cheese
+6511 add vodka ignite mixture
+6516 add heavy cream
+6518 boil the mixture
+6532 put pasta in pan
+6536 toss pasta
+6548 put sauce on pasta
+6549 sprinkle parsley and cheese
+6555 boil potatoes
+6559 drain potatos
+6561 leave potatoes to cool for minutes
+6563 add cheese and egg
+6578 egg wash the dough
+6581 place filling and seal edges
+6586 boil perogis for minutes
+6590 cook bacon in butter
+6596 add pierogi to frying pan
+6601 toss pierogi with bacon and onion
+6627 fry aromatic vegetables stir fry carrots onion garlic
+6631 add crushed tomatoes
+6635 add beans
+6640 simmer mixture
+6641 wash carrots
+6642 remove stems of carrots
+6650 add pasta
+6704 cook beef and chorizo
+6705 cook until no pink meat remains
+6706 add onion
+6707 add taco seasoning
+6708 heat taco shells
+6709 add sour cream and vegetables
+6731 add sugar
+6732 add pepper
+6734 add salt
+6737 add celery onions
+6738 add honda
+6744 cook macaroni
+6747 mix well refrigerate mixture
+6814 add egg add oil
+6815 add salt
+6816 add cayenne pepper baking soda
+6817 add beer
+6819 add cornmeal
+6820 add flour mix mixture
+6821 add beer
+6823 cover mixture
+6824 let mixture sit
+6829 add water
+6837 peel onion
+6838 throw away outer ring separate rings
+6841 add onions to batter
+6842 drop onions in oil
+6846 drain onion rings
+6847 cool off onion rings
+6850 microwave hotdogs
+6851 defrost hotdogs
+6853 mix buttermilk apple cider vinegar
+6856 rest mixture
+6858 mix cornmeal baking powder baking soda sugar
+6859 place ingredients in bowl
+6860 add egg
+6863 add wet ingredients
+6864 whisk ingredients
+6868 rest ingredients
+6870 dry hotdogs
+6873 roll hotdogs in cornstarch
+6874 place cornstarch on cutting board
+6877 break skewers
+6880 insert skewer into hotdog
+6882 roll hotdog in cornstarch coat hotdog shake off excess cornstarch
+6884 heat oil
+6887 pour batter into baggie
+6889 fill batter
+6891 stick skewer into oil
+6892 observe for bubbles
+6894 dunk hotdogs into oil
+6896 take hotdogs out
+6897 place back into oil
+6899 spin hotdogs
+6912 place hotdogs on paper towel
+6915 dunk hotdog into batter
+6919 place corndog in oil
+6925 rotate corn dog
+6928 turn corndog
+6933 take corndog out of oil
+7051 put flour into bag
+7053 make well in the bag
+7055 season with salt and pepper
+7056 shake the salt pepper
+7059 cut rings off squid
+7061 drop squid rings into flour shake ziploc bag
+7066 pull in our squid rings
+7067 drain squid rings on plate with paper towel
+7068 add salt squeeze lemon juice on top
+7078 break tip off clove
+7079 crumble clove into butter
+7080 add herbs
+7081 sqeeze lemon juice
+7083 mince garlic add garlic to butter
+7084 cut up salad
+7086 slide butter
+7087 add salt mix
+7089 get mixture in refrigerator
+7101 put butter mix snails in shell
+7103 put parmesan
+7105 put escargot
+7195 cut potatoes
+7205 cook sausage
+7210 slack onion
+7222 reduce beef stock
+7223 add herbs
+7229 hit hp barbecue sauce
+7235 turn off gas
+7238 go with butter to potatoes
+7239 add black pepper salt
+7240 add nutmeg
+7241 drizzle milk
+7242 warm and add milk
+7247 whisk mashed potatoes
+7299 take black lentils
+7302 soak lentils overnight
+7303 soak red kidney beans
+7307 add butter garlic ginger
+7309 add lentils
+7310 add water
+7312 add turmeric chilli powder
+7314 cool down
+7315 open lid
+7321 add cumin seeds and crushed coriander
+7322 add onion and green chilli
+7323 add ginger garlic paste
+7324 add salt
+7328 add tomato paste
+7331 simmer mixture
+7332 add cream
+7333 add whipping cream
+7345 take seasoned cooked rice
+7351 get ball of rice
+7352 flatten onto seaweed
+7353 spread it on seaweed
+7355 sprinkle sesame seeds
+7357 flip sushi
+7358 dice tuna
+7360 cut cucumber strips
+7361 slice avocado
+7362 get mayonnaise and sriracha
+7365 add spicy mayonnaise to tuna
+7366 start with avocado
+7373 fold with cling film
+7376 roll sushi
+7377 cut sushi
+7473 take fish sauce
+7474 mix hot sauce hoisin sauce ground black pepper
+7475 add sugar heat pan
+7476 add oil add cuttlefish balls add shrimp
+7478 add onions
+7480 add green nion
+7481 add egg
+7482 scramble egg
+7483 mix ingredients
+7485 rinse noodles microwave noodles
+7488 mix sauce and noodles
+7489 cook mixture
+7490 turn off heat throw in cilantro
+7534 boil dried noodles
+7538 strain the water wash noodles in cold water
+7546 add soy sauce mirin salt to dashi stock bring to boil
+7547 add cooked noodles
+7549 serve in large soup bowl
+7550 top with carrots
+7552 add chives sesame seeds nori strips
+7554 add shichimi
+7564 remove cardamom
+7574 add ghee
+7575 add ginger chili paste gravy
+7576 add tumeric powder
+7577 add mix red chili powder salt
+7578 add fried vegetables
+7580 switch off flame
+7581 add saffron and milk
+7582 add ghee to deep pan spread gravy and vegetable mixture
+7584 put rice
+7585 add one more gravy and vegetable layer
+7586 put layer of cashews and onions
+7587 put in another layer of rice gravy vegetable mixture
+7588 spread layer
+7590 top with coriander leaves ghee cover with lid
+7591 pressurize mixture
+7594 add garam masala
+7597 mix the vegetable biryani
+7626 add hing kashmiri chilly powder ginger powder fennel seed powder and water mix into watery paste
+7627 add cumin seed into blender
+7628 add green cardamom cinnamon sticks mace
+7630 heat up ghee add black cardamom
+7631 cook meat
+7635 add mixture
+7636 add saffron pour water add salt
+7640 put lid on cook on slow flame
+7652 add masala powder
+7734 salt the beef
+7736 put oil in pot
+7740 put carrots
+7743 brown onions and carrots
+7745 put flour in
+7747 pick up tomato
+7749 put in thyme
+7751 put parsley
+7756 put in red wine
+7758 put in garlic pepper
+7762 boil bourguignon
+7764 slow cook bourguignon
+7765 add oil
+7766 get bacon on high heat
+7768 cut mushrooms
+7776 add garniture to top of volume
+7794 take flour add salt add water make dough
+7796 take oil to palms
+7801 divide dough into two parts
+7802 roll dough balls
+7804 have my skillet on medium height
+7808 put water drops on skillet
+7810 put roti on skillet
+7811 turn it left
+7812 wait for bubbles to form
+7818 flip roti
+7821 put butter on roti
+7832 add eggs
+7833 add anchovies garlic lemon juice
+7835 add olive oil
+7836 fry bacon
+7838 dry bacon
+7840 toast bread
+7841 put bacon
+7842 add tomatoes
+7843 add caesar dressing
+7846 put lettuce on the top
+7858 flatten meat
+7861 cut basil parsley
+7862 put basil and parsley into flour
+7867 toast bread
+7870 whisk eggs
+7878 blend bread into smaller pieces
+7880 put parmesan cheese in blender
+7882 blend the mixture
+7886 pour bread crumbs into flower
+7892 cover the chicken in the eggs
+7901 throw chicken into fryer
+7906 flip chicken
+7917 put the chicken on clean plate
+7919 cover chicken with more parmesan cheese marinara sauce
+7922 cover it with mozzarella and even more parmesan
+7924 add chicken parmesan in ovencook
+7929 serve with spaghetti
+7947 shake barbecue sauce put in sesame seeds and soy sauce
+7948 put in chopped garlic soy sauce
+7949 stir marinade
+7953 put galbi into marinade
+7959 coat meat with marinade
+7960 put galbi in refrigerator
+7964 line galbi up on the grill
+7970 wait galbi to grill
+7973 flip galbi over
+7986 fry onions
+7988 add garlic add grated carrot
+7995 add chicken stock
+7997 add salt
+7998 cook mixture
+8000 boil chicken
+8003 blend mixture
+8005 drain the liquid
+8007 add mustard coconut oil salt
+8016 preheat oven
+8110 boil water
+8111 remove pot from heat add noodles
+8112 mix shrimp curry powder rice vinegar heat chilli garlic
+8114 stir fry noodles eggs
+8116 add curry powder
+8117 add oyster sauce soy sauce
+8118 add sauce mixture to noodles
+8119 combine ingredients
+8123 cook noodles
+8197 get american cheese
+8201 put burger on foil
+8205 take ground beef
+8206 take ground beef
+8207 cut beef in squares
+8214 take knife take edges
+8215 make patties
+8217 cut edges move patties
+8221 toast buns
+8223 put on pan
+8264 mix soy sauce chilli pepper and salt
+8265 cook marinated chicken in pan
+8267 add ginger garlic and onion
+8269 add veggies
+8272 fry egg
+8273 add oil
+8275 add chilli powder
+8276 add salt and fish sauce
+8288 slice chicken
+8289 add flavoring
+8290 add chinese five spice
+8296 heat pan
+8298 take garlic
+8299 take chilli and ginger
+8300 divide ginger garlic and chilli
+8301 add sesame oil
+8302 add soy and honey
+8305 take chopped carrots
+8306 take spring onions
+8307 put spring onions and carrot
+8321 take egg
+8327 make eggs
+8397 add white flour to bowl
+8398 add baking powder and baking soda
+8400 add salt and sugar
+8402 whisk together ingredients
+8403 add egg
+8405 add melted butter
+8406 cool to room temperature
+8407 add buttermilk
+8414 add wet ingredients to centre of dry ingredients
+8418 mix butter
+8425 heat skillet to degrees
+8431 spray skillet
+8435 pour butter into pan
+8445 cook butter
+8613 mix with spicy tuna sauce
+8659 slice avocado
+8662 roll pieces
+8663 lift sushi
+8676 add roasted sesame seeds
+8679 slice sushi
+8699 add butter to pan
+8700 add chicken
+8702 put chicken in oven
+8704 add sauce on chciken
+8705 toss the chicken
+8744 need suhi rice
+8746 take sharp knife take bowl of water
+8747 slice fish
+8749 dip hands in bowl
+8750 pick fishpick rice spread wasabi
+8751 flip negari
+8753 flip rice
+8922 take onion potatoes turmeric chilli powder
+8923 take red chilli flakes garam masala ginger
+8924 take garlic paste flour
+8925 heat pan with oil
+8926 add ginger garlic paste green chilli crushed corinder seeds chopped onion
+8927 fry onion until golden brown
+8928 add turmeric powder red chilli powder garam masla powder mix water salt mashed potato mix
+8929 make small rolls of dough
+8930 cut semi circle of the dough
+8931 put fillling in cone
+8932 heat oil
+8937 pour mixture
+8945 add garlic
+8947 heat tomato sauce
+8949 add coconut milk alla vodka cream or milk
+8951 mix ingrediants
+8952 cook the mixture simmer mixture
+8953 add vodka
+8956 take frozen peas
+8958 take brown rice pasta
+8959 add pasta to sauce
+8969 take onion
+8970 take vibegar boiling water
+8972 add bell pepper potatoes into water
+8973 add salt and pepper
+8974 cook by closing lid
+8975 add the sausage pieces to the potatoes
+8976 add prepared spices
+8979 add butter
+9096 grind tomato ginger garlic green chilli potato
+9101 add garlic
+9102 add potato
+9189 season chicken
+9195 add pepper
+9199 rub seasoning into chicken
+9209 make chicken wing into one piece
+9218 pour buttermilk over chicken
+9225 preheat oil
+9226 cover chicken in flour
+9230 shake ziplock bag
+9240 fry at degrees
+9241 fry chicken
+9242 turn chicken often
+9247 shake off grease
+9263 take shrimp
+9264 take scramble egg
+9265 take garlic
+9267 take snow peas bean sprouts
+9268 take dried rice noodles
+9269 soak dried rice noodles
+9271 cut rice noodles diagonally
+9275 heat pan
+9276 cook shrimp
+9278 add shrimp to pot
+9281 cook shrimp
+9283 put eggs
+9284 add garlic
+9285 turn down heat
+9288 add pad thai sauce
+9289 add drained rice noodles
+9294 add hot water
+9298 garnish with chopped peanuts and cilantro
+9310 add five asianstyle chopped up hot peppers five cloves of chopped up garlic
+9311 add minced ginger
+9312 add indian curry paste add lamb
+9313 infuse oil and curry into lamb
+9317 add tomato sauce
+9318 add water turn heat down
+9321 cut and add medium potato spanish onion
+9322 stir lamb
+9323 turn heat down
+9336 season calamari with salt and pepper
+9337 toss calamari
+9338 dust with flour
+9339 mix with hand
+9340 shake off excess flour drop calamari in oil
+9342 pull calamari out of oil sprinkle salt
+9346 serve with lemon wedges and marinara sauce
+9356 crack eggs
+9357 add cream to eggs
+9359 preheat pan
+9361 mix cream and eggs
+9364 add butter
+9365 add salt
+9375 add eggs to pan
+9378 wait seconds
+9383 nudge eggs in pan
+9385 add parmesan
+9389 turn off heat
+9417 boil dashi add salt soy sauce mirin sake mix seasoning add chicken pieces
+9418 heat until chicken is cooked through
+9419 add udon
+9420 put in green onions pour noodles and soup into bowl sprinkle shichimi spice on top
+9524 cut crab sticks
+9525 take cream cheese mayonnaise
+9528 spread sushi base on sheet on nori
+9531 add season seeds
+9532 place it upside down
+9533 add crab filling
+9534 roll the sheet of nori
+9541 cut roll
+9574 put meat in bag
+9578 coat meat
+9581 brown the meat
+9590 take meat out of pot
+9592 deglaze pot with brandy
+9600 add butter olive oil
+9601 get leeks onions carrots
+9604 add tomato paste put meat bacon in
+9606 use ground cloves
+9607 add bay leaves wine beef stock
+9609 cook for minutes throw in oven for about an hour
+9610 saute onions mushrooms
+9634 add butter
+9635 add parsley white wine
+9636 have shallots
+9637 remove alcohol
+9644 put in mussels
+9647 mix olive oil butter
+9648 pour juice over mussel
+9659 cook noodles
+9667 add carrots to broth
+9669 add snow peas
+9670 add mushrooms
+9674 ladle hot soup onto miso paste
+9675 whisk until miso paste is melted in with the hot soup
+9676 add miso to pot
+9680 add noodles swirl around noodles add green onions
+9723 cook kelp noodles
+9726 take almond butter
+9728 add tamari
+9729 add soy sauce garlic and onion
+9730 add maple syrup red pepper flakes lime juice
+9740 add sauce
+9749 add scallions
+9753 add cilatro bean sprouts crushed almonds
+9754 add black sesame seeds
+9778 cut lemongrass
+9786 bruise lime leaf
+9787 add leaves to chicken stock
+9789 add ginger hot chilli pepper simmer chicken stock
+9791 strain stock take out aromatics
+9792 add chicken
+9797 add cilantro stir soup
+9814 take stewed tomatoes
+9815 add salt and black pepper bay leaf sugar hungarian paprika garlic vegetables
+9816 add red bell pepper green bell pepper carrot onion
+9817 cut meat into cubes
+9818 sprinkle seasoning and paprika on meat
+9819 refrigerate marinated meat
+9821 put vegetables minced garlic bay leaf salt
+9822 add meat stewed tomatoes stir mixture
+9824 cook the mixture
+9832 add sour cream
+9844 trim sushi into block
+9848 cut sushi
+9853 cut sushi
+9856 spread out sushi portion
+9863 combine ingredients and roll out
+9864 cut dough into circles
+9865 boil pierogis until they float
+9872 crack eggs
+9873 whisk eggs
+9875 melt butter
+9877 stir eggs
+9879 draw eggs to center
+9880 add cheese and pepper
+9885 cut cabbage
+9886 add potatos and cabbage to boiling water
+9887 bring to the boil
+9888 add onions butter and mash
+9911 pick meat
+9915 add mustard seeds add herbs add mushrooms
+9922 put burger in oil
+9927 toast bun
+9929 use silt pineapple
+9936 add bacon to pan
+9941 lay bacon on bread
+9942 follow by tomatoes
+9943 use lettuce
+9945 add ground pepper
+9946 slice sandhwich
+10052 use one peeled minced korean pear
+10054 use half minced onion
+10055 add minced garlic
+10056 add ginger
+10057 add three sliced green onions
+10058 add one half cup of soy sauce
+10059 add rice wine
+10060 add sesame oil brown sugar
+10062 add chili paste beef
+10063 marinate in the refrigerator overnight
+10069 preheat grill to medium heat
+10072 grill ribs for minutes per side
+10080 cut ribs with scissors
+10094 cut pancetta into cubes
+10096 add salt to boiling pan
+10102 fry bacon until crispy
+10107 stir pasta
+10110 save some pasta water
+10118 add parsely
+10119 turn heat off and whisk
+10124 cook eggs through
+10183 wrap hot dog in bacon
+10187 put hot dogs in skillet
+10198 toast bolillo buns in skillet soak up bacon grease
+10199 spread mayonnaise on buns
+10202 add mustard
+10204 add hot dogs green salsa pico de gallo
+10207 add pickled jalapenos
+10212 add pcikled onions
+10232 cut tops of celery
+10233 trim bottom of celery
+10234 peel celery
+10236 trim the bottom of celery
+10237 cut celery
+10238 cut celery
+10240 cube celery roots
+10241 toss celery into cold water
+10246 heat walnuts in pan
+10251 transfer walnuts to plate
+10253 cool walnuts
+10255 mix mayonnaise and sour cream
+10256 add sugar salt
+10257 add black pepper
+10258 add cayenne lemon juice
+10259 add chopped eragon
+10261 whisk dressing
+10265 cut apple
+10266 remove core of apples
+10270 remove seeds of apple
+10271 toss apples into bowl
+10272 drain celery roots
+10273 add green grapes
+10275 toast walnuts
+10282 add dressing to salad
+10283 toss ingredients
+10292 garnish with grapes and walnuts
+10336 take cheakpeas
+10337 put some lemon juice
+10339 take garlic
+10341 add salt
+10342 add tahini peanut butter
+10354 cut chicken and add water and lemon
+10359 marinate chicken with ginger
+10360 heat oil
+10363 add curry powder
+10365 coat chicken in eggs
+10371 fry chicken
+10372 flip after minutes
+10378 drain chicken grease
+10512 slice cabbage
+10513 remvoe core
+10514 chop carrot
+10515 mix coconut sugar dark maskarada sugar
+10516 add salt vinegar
+10519 mix ingredients
+10523 add white pepper
+10524 add cayenne pepper chilli flakes
+10529 leave jar outside
+10530 place jar in refrigerator
+10539 melt down truffle butter put escargot in
+10545 add fiddleheads english peas
+10548 add stock
+10553 add truffle oil
+10643 need flour
+10644 take warm water
+10647 add yeast
+10656 add sugar
+10664 add oil
+10669 pre heat oven
+10677 add oil to dough
+10678 cover dough let dough rest
+10679 make dough balls
+10686 put in oven
+10687 apply butter
+10693 take butter
+10695 apply garlic
+10711 add chat masala
+10717 rotate naan in flame
+10742 cut bread loaf
+10743 preheat oven toast bread cook bacon
+10746 drizzle with olive oil
+10759 give saltpepper and parsley
+10760 mash the mixture
+10761 slice avocado
+10763 divide mixture
+10765 take tomatoe slice
+10770 season with salt and pepper
+10771 add olive oil
+10773 divide avocado
+10780 add lettuce
+10797 put tomatoes in oven
+10799 preheat oil add onions
+10800 sweat out onions
+10805 put garlic near
+10811 add stock
+10814 add peeled tomoates
+10817 mix tomatoes
+10818 use salt and pepper
+10824 boil mixture
+10831 reduce heat add basil leaves
+10837 cover pot
+10843 add roasted tomatoes
+10849 bring mixture to simmer
+10867 blend mixture
+10875 add parmesan
+10878 add butter milk
+10911 cut onion
+10914 grind onion add water
+10920 marinate chicken
+10927 grind ginger garlic add salt
+10938 remove corainder leave from stem
+10945 add chillis
+10946 add chopped onions
+10950 mix tomatoes and onions
+10955 add water
+10956 add mint
+10958 cover the pan
+10995 chop onions
+10999 cut cabbage
+11002 place cabbage onions on plate add red and green bell peppers
+11008 clean mushrooms
+11010 cut mushrooms
+11011 add spring onion
+11013 press tofu
+11014 chop tofu
+11022 saute vegetables
+11023 boil vegetable stock
+11025 add noodles
+11035 stir mixture
+11036 add noodles cook mixture add salt
+11038 dissolve cornstarch into water
+11039 keep cornstarch mixture aside
+11042 heat olive oil
+11043 add onion
+11044 add carrots mushrooms cabbage
+11045 add ginger garlic
+11046 add bell peppers
+11048 add vinegar
+11051 add cornstarch mixture
+11054 add tofu
+11056 turn off stove
+11058 add soup to bowl garnish with spring onions
+11063 add muscle to pot
+11064 heat oil cook onion parsley pepper flakes simmer mixture
+11066 add wine broth simmer mixture divide mussels into serving bowls
+11067 mix butter flour
+11069 boil broth sprinkle parsley add lemon juice
+11071 boil potatoes
+11072 drain and mash potatoes
+11074 cook potato mixture in dollops
+11075 make apple sauce
+11076 put apple and cranberries in food processor
+11077 add lemon and honey
+11088 season egg white and yolks
+11099 add oil
+11109 add egg mixture to pasta
+11120 chop cilantro
+11122 saute onions garlic butter cookies
+11123 cool garlic onions
+11125 add sausage ground beef in bowl
+11126 add cilantro bread crumbs onion garlic salt pepper
+11129 mix ingredients
+11131 shape meatloaf put on baking sheet
+11141 need egg yolk to the top
+11142 heat ball
+11159 cook chicken
+11163 add onions
+11164 add white pepper add salt to chicken add seasoning
+11165 cool mushroom and vegetables until tender
+11166 add bean sprouts
+11167 add precooked noodles
+11205 cut vacuum sealed package
+11209 cut salmon in half
+11211 take skin off
+11242 add ball of rice
+11257 sweat onions
+11260 add jalapenos
+11266 add aromatics
+11274 chop beef
+11276 add mint
+11278 submerge beef in water
+11283 add stock
+11294 braise beef for three hours
+11308 chop tongue
+11312 heat tortilla pan
+11321 add onions and jalapenos
+11368 mix eggs and milk
+11373 cook ingredients together
+11375 add cheese and garlic
+11380 mix together
+11384 leave eggs for seconds
+11393 add more milk
+11411 cut bread
+11415 set bread aside
+11417 mix cream cheese mayonnaise shredded cheddar shredded mozzarella garlic powder salt
+11423 mix burger fry seasoning barbecue seasoning marinades
+11428 spread mixture on bread slices
+11434 add butter to skillet
+11435 place bread on skillet
+11436 cook bread
+11437 flip bread
+11452 add mashed garlic
+11453 add olive oil blend oil
+11454 chop tomatoes cucumber bell peppers radishes purslane lettuce parsley onions
+11455 transfer to bowl pour dressing
+11456 toss mixture
+11457 cut pita breads into strips fry sticks drain bread
+11458 season croutons with sumac
+11766 add olive oil
+11767 add onion
+11768 cook onion
+11769 add garlic
+11772 chop tomatoes
+11774 add orgeano
+11778 put chilli pepper vodka in
+11779 cook mixture
+11781 put mussels in
+11784 put mussels in
+11789 fish mussesls out place mussels in bowl
+11790 add cream
+11794 add mussels sprinkle basil
+11961 take boneless chicken
+11962 prepare marinade
+11963 take olive oil red wine vinegar
+11964 add lime
+11965 add chilli powder
+11966 add paprika onion powder garlic powder salt
+11967 add black pepper
+11968 take vegetables
+11973 put chicken and pepper on skewers
+11987 saute carrots
+11988 chop onion garlic
+11989 season with salt and pepper
+11997 add egg
+11998 roll pan
+12003 add peas
+12004 add pork
+12007 add soy sauce
+12013 add rice
+12030 combine potato and cheese
+12031 add bacon
+12032 add garlic milk salt
+12033 add pepper
+12034 mash mixture
+12036 combine water flour and eggs
+12037 mix things up
+12044 cut dough in half
+12045 roll out dough
+12050 place mixture into centre and seal
+12056 boil perogis until they float
+12061 set boiled perogis aside
+12064 fry perogis for two and half minutes on each side
+12105 boil water
+12108 heat oven
+12110 heat half and half
+12120 heat milk
+12121 add cheese
+12123 stir mixture
+12124 add cheese
+12129 add pasta to water
+12130 add brocolli
+12136 blend butter
+12137 take cheese sauce
+12139 place macaroni in dish
+12141 add mozzarella
+12142 add cheddar
+12143 add parmesan
+12144 add cheese
+12316 mix butter shallots garlic parsley black pepper
+12320 rinse snails
+12322 stick snail butter in shell
+12362 take water
+12363 take miso paste
+12371 take green onions
+12374 take mushrooms
+12377 slice the mushrooms
+12393 add water to miso paste
+12396 blend the mixture
+12399 make smooth paste
+12401 add green onion mushroom hot water
+12462 soak rice dal fenugreek seeds in water
+12469 grind rice rice flakes
+12473 cover batter
+12475 add salt to batter
+12601 peel half an apple
+12602 chop apple
+12606 add onions
+12609 add apple minced garlic
+12611 add sauerkraut
+12614 add water
+12615 add mix juniper berries salt bay leaf
+12616 cover pot cook mixture
+12617 boil water
+12619 boil bratwurst
+12628 put bratwursts on plate set aside
+12632 heat up butter olive oil
+12637 brown bratwursts
+12652 place sauerkraut on plate
+12654 remove bay leaf lay bratwursts on top of sauerkraut
+12657 garnish with parsley
+12664 take beef
+12666 take tofu green onion yellow onion garlic clove chicken broth add soy sauce
+12668 take black bean garlic saucechilli sauce
+12670 take cane sugarcornstarch salt pepper
+12672 take tofu
+12675 dice yellow onions
+12676 take green onions
+12677 peel garlic cloves
+12680 mix cornstarchchicken stock
+12682 preheat pan
+12683 add oil to pan
+12685 add meat
+12687 add sea salt pepper
+12689 add garlicyellow onionsoy sauce
+12690 add black bean saucechilli sauce chicken stock cane sugar
+12691 simmer the mixture
+12696 stir the mixture add tofu
+12697 turn off heat add green onion
+12738 melt half cup of butter
+12739 saute onions
+12740 add bell peppers
+12742 add celery
+12743 add seasonings thyme bay leaves
+12744 saute veggies
+12745 add and mix potatoes add clam juice
+12746 add worcestershire sauce
+12747 mix clam chowder
+12748 boil clam chowder
+12750 add clams
+12751 add flower
+12754 stir mixture
+12755 heat on medium for five more minutes
+12756 add sarrah cha and mix
+12759 grab bowl scoop clam chowder
+12760 garnsih with green onions
+12785 thinly slice potatoes
+12790 brush each potato over the top with melted butter
+12792 sprinkle sea salt over potatoes
+12793 sprinkle black pepper over potatoes
+12794 place potatoes into oven
+12802 pour flour into bowl
+12805 pour cold beer into flour
+12807 season batter with sea salt and black pepper
+12812 toss fish into flour
+12819 dip fish into batter drip off excess batter
+12820 place fish into pan of oil
+12822 pull fish out of oil
+12841 dissolve butter cook apple slices
+12905 need one ripe
+12906 split avocadoremove pit
+12910 squeeze juices
+12913 add olive oil
+12915 season with salt
+12916 stir the mixture
+12918 creat oven to high heat
+12920 slice bacon
+12924 pop bacon in oven
+12926 slice the bread
+12927 toast bread
+12928 make eggs
+12931 add eggs
+12933 season with salt and pepper
+12934 assemble sandwich
+12935 slice tomatoes
+12936 spread avocado
+12941 add olive oil mayonnaise
+12943 spread olive oil mayonnaise
+12944 add spring greens
+12945 add tomatoes
+12948 place it on paper towels
+12950 add slices of sandwich
+12953 slide eggs on sandwich
+12966 heat oil
+12967 add cumin seeds
+12969 add bay leaves coriander powder red chilli powder
+12971 cook ingredients
+12972 add boiled garbanzo
+12973 add salt
+12975 crush garbanzos
+12976 cover mixture cook mixture
+12978 add corainder leaves
+12979 turn off heat sit mixture
+12982 place in serving bowl
+12985 chop chives
+12986 add egg into ground pork mix ingredients with chopsticks or fork
+12989 fold wrappers
+12990 put ingredients onto wrappermix them
+12991 seal edges
+12992 preheat pan add oil
+12993 grill dumplings turned the dumplings on the other side
+12994 steam dumplings
+12998 put all dry ingredients in bowl
+12999 add sugar
+13000 add baking powder and salt then whisk
+13001 whisk egg
+13003 add butter and milk
+13005 pour wet ingredients into centre
+13006 mix ingredients
+13011 set heat to medium high
+13024 flip pancake after minutes
+13042 heat garlic infused olive oil add onion
+13046 sizzle onion
+13047 add minced beef
+13052 brown meat
+13055 add beef stock
+13060 add tomato ketchup
+13065 add gravy powder
+13067 simmer mixture
+13076 peel potatoes chop potatoes boil potatoes
+13077 mash potatoes
+13079 mix mashed potatoes
+13088 have parmesan cheese
+13110 do with buffalo mozzarella
+13111 get beef
+13118 get fat
+13119 form patty
+13120 flat out the patty
+13122 flatten the patty
+13123 make round patty
+13129 make patty
+13131 seal edges
+13132 sprinkle salt
+13134 use pepper to hit
+13142 push mozzarella
+13145 take seasoning
+13146 seal the patty
+13149 season the top with salt
+13150 add pepper
+13159 grill tomatoes
+13165 put onions on
+13168 put olive oil on
+13170 turn patty
+13181 add garlic mayonnaise
+13208 put bones and meat in pot fill pot up with water
+13209 crush ginger put on heat scoop off scum put lid on boil for couple of hours take out bones stick in fridge
+13211 scoop off fat heat soup
+13214 fill up pot
+13215 dip pork in sauce turn heat on flip pork around wait until boil reduce to simmer
+13217 take out meat prepare hard boiled eggs
+13221 soak eggs in sauce
+13222 mix cake flour flour baking soda salt and water
+13225 add little bit of oil
+13240 cut up cilantro green onions boil spinach squeeze water out
+13241 cut spinach
+13242 cut eggs in half
+13243 slike maki cover noodles with broth
+13245 sprinkle ingredients on
+13343 take shredded carrots
+13344 take mung beans
+13345 take bamboo shoots
+13351 squeeze out water
+13352 blanch in boiling water
+13375 take spring roll wrapper
+13378 put the filling
+13379 bring corner up
+13386 wrap the rolls
+13388 fry rolls
+13441 cut romaine lettuce cucumber dice tomato
+13442 chop parsley mint
+13443 slice onion
+13445 crush garlic
+13448 cut pita bread
+13450 melt butter
+13451 add pita bread
+13452 fry pita bread
+13453 drain pita bread
+13455 assemble fattoush
+13456 add salt
+13457 mix mixture
+13458 mix royal balsamic vinegar
+13460 toss mixture
+13467 take all purpose flour salt
+13470 make soft dough
+13473 cover with damp cotton cloth
+13477 take chopped onion
+13481 add salt
+13489 make small balls
+13494 make flat bread
+13495 preheat pan
+13496 cook flat bread
+13505 cut into triangles
+13509 add all purpose flour water
+13523 preheat oil
+13525 deop samosa in oil
+13545 take pork loin shrimp
+13546 take rice paper vegetables cilantro
+13547 take water
+13548 boil vegetables
+13549 add salt
+13553 turn off stove
+13555 close lid cook mixture
+13559 cut meat
+13573 boil water
+13574 add sweet potato potato
+13582 peel potatoes
+13584 add minced beef
+13587 stir mixture
+13589 add chopped onions
+13590 add carrot sweet corn green beans
+13593 add mixed herbs
+13595 add water simmer mixture
+13596 cook mixture
+13603 add salt pepper
+13604 put in oven
+13608 need gravy granules
+13612 flatten mixture
+13634 wash hands
+13690 take flour add water mix ingredients
+13691 cover dough
+13693 apply oil fold into triangle
+13694 apply flour roll dough
+13814 add chilli paste
+13815 add low sodium soy sauce
+13818 blend mixture
+13820 add saki
+13826 drain the mixture
+13827 rinse the porch
+13828 boil todu
+13830 add pork
+13831 add chilli paste
+13832 add sesame oil
+13833 add garlic
+13834 add gingerbrown sugar
+13835 add onion
+13836 add black pepper
+13838 add bamboo salt
+13841 slice onions
+13842 put tofu on plate
+13845 add lettuce
+13909 cook rice
+13910 add tomato
+13915 add onion and parsley
+13916 wait minutes
+13965 put four lamb shanks in plastic bag
+13966 pour cider vinegar
+13967 pour in vegetable oil salt tamarind
+13968 put garam masala in
+13969 mix marinade
+13970 pour marinade seal plastic bag
+13971 squeeze air out
+13972 immerse meat
+13975 place lamb shanks on oiled foil lined sheet pan
+13977 salt both sides of lamb shanks place in oven
+13978 in blender add garlic
+13979 add ginger cherry tomatoes onion water
+13983 put clarified butter into dutch oven
+13985 throw in chopped onion salt
+13987 cook onions
+13990 put together spice blend of cumin cinnamon black pepper cayenne dry mustard paprika
+13994 reduce heat to medium dump in spice blend
+13997 cook spice dump in marinade
+13999 dump in mixture from blender
+14000 stir mixture
+14001 raise heat up to high
+14002 add brown sugar
+14003 stir brown sugar in
+14004 place lamb shanks in
+14007 stew lamb shank vindaloo for hours
+14010 turn heat down to low cover dutch oven tightly
+14015 remove lamb
+14016 turn heat up to simmer skim fat from surface with ladle
+14017 taste for seasoning
+14018 spoon sauce over lamb shanks garnish with cilantro
+14023 heat oil
+14024 add onions
+14026 cook onions
+14027 use cayenne pepper chilli powder
+14028 mix salt mix ingredients
+14030 add cornstarch
+14031 add tomato paste
+14032 add meat
+14033 add walnut taco mix add refried beans
+14036 add vegan cheese
+14037 mix ingredients
+14040 add cheese to tortilla
+14042 spoon in mixture
+14043 lay burrito on pan
+14131 sprout chickpeas
+14132 cook chickpeas add turmeric powder water
+14134 add oil
+14136 add gigner garlic paste
+14137 add onions
+14140 add channa masala
+14144 add turmeric water
+14145 add chilli powder add tomatoes cook mixture
+14146 mix mixture cook mixture
+14147 add cilantro yogurt
+14149 squeeze moisture from potato
+14157 add mashed potato
+14160 add flour
+14161 add salt
+14162 add milk
+14165 add butter and oil
+14166 cook on low heat
+14174 take shredded cabbage
+14175 take shredded carrot bean sprouts beans cauliflower
+14176 take onions
+14177 take ginger garlic
+14180 fry onions with ginger and garlic paste
+14182 add salt chilli powder garam masala
+14183 add soy sauce
+14184 add red chilli powder
+14186 add ginger garlicsalt and soy sauce
+14187 add soy sauce
+14188 add vegetables
+14193 take all purpose flour
+14194 add water
+14195 make smooth paste
+14201 add stuffing
+14202 roll pastry
+14204 turn the corner
+14206 add all purpose flour paste
+14210 deep fry spring roll
+14341 add sesame oil to frying pan
+14342 get frying pan hot
+14343 put carrots mushroom in
+14356 add bok choy
+14363 add vegetable broth to frying pan
+14364 let vegetables finish cooking in broth
+14367 add noodles
+14373 top udon with enoki mushrooms
+14420 boil the borlotti beans
+14431 chop the tomatoes
+14441 chop an onion
+14450 chop up the chorizo
+14452 chop celery
+14456 put olive oil onions in pan
+14457 drop in the chorizo
+14460 put the celery salt in
+14467 put the tomatoes in
+14476 pop the beans in
+14479 mix and blend the pasta fagioli
+14484 put in and blend the pasta
+14508 cut carrot
+14513 cook beef
+14514 add carrots to pan
+14516 put carrots aside add mushrooms and water
+14518 add salt
+14519 put ingredients aside
+14520 oil pan
+14521 cook spinach
+14522 put chicken aside
+14524 put clay pot on stove
+14525 oil claypot
+14528 spread rice
+14531 separate egg white and yolk
+14533 place yolk in middle of claypot
+14534 heat up claypot
+14543 wait minutes
+14546 mix rice and toppings
+14622 blend garlic and macadamia nuts
+14626 add lemongrass
+14627 add galangal
+14629 add chillies
+14631 add pepper
+14632 add coriander and sugar
+14633 blend ingredients into fine paste
+14634 cook spy sauce in oil
+14638 add salt sugar and water
+14639 simmer for minutes
+14641 add cocunut milk
+14643 season mixture
+14653 sieve mixture
+14655 pour soup back into pan
+14656 bring soup to the boil
+14657 add prawns
+14663 soak vermicelli in boiling water
+14664 bake vermicelli
+14670 assemble ingredients in bowl
+14672 pour soup over ingredients

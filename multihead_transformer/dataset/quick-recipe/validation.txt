@@ -1,0 +1,354 @@
+73 make marinade
+75 put it on the chicken
+76 mix marinade and chicken
+90 heat up wife
+91 swirl peanut oil in wok
+92 put cheese in szechuan peppercorn
+97 add green onions garlic in ginger
+960 boil potatoes
+961 peel potatoes
+963 cut the potatoes
+966 cut onions
+974 put oil in pan
+980 cook potatoes
+986 put pork loin in ziploc bag
+987 pound pork loin
+992 add salt and pepper
+999 put in flour egg
+1000 put bread crumbs on top
+1006 put bacon in pan
+1014 add onions
+1145 take all purpose flour baking soda water salt oil vegetables
+1146 take mashed potatoes
+1147 take carrot
+1148 cut carrots into pieces
+1149 take chopped onion
+1150 take chopped ginger
+1151 take garam masala coriander powder carom seeds
+1152 take turmeric powder cashew nuts
+1153 make dough
+1161 add all vegetables
+1162 add all spices
+1163 add chili powder
+1165 add coriander powder garam masala salt
+1166 add chopped coriander leaves
+1178 heat oil in pan
+2134 butter bread
+2136 flip bread
+2137 smear mustard on bread
+2145 sprinkle cheese
+2147 place sandwich in grill
+2150 mix flour butter
+2152 add milk
+2153 add nutmeg
+2155 cook ingredients
+2157 whisk mixture
+2160 add cheese
+2161 add carrot
+2163 add beetroot
+2164 add onion
+2167 add gerken
+2169 add sesame
+2170 add olive oil lemon juice salt pepper
+2171 mix ingredients
+2187 cut into wedges
+3243 dice onions
+3246 add onions to oiled pan
+3248 cook for three minutes and add coconut milk
+3250 simmer for minutes
+3252 cover noodles with boiling water
+3257 pour the mixture
+3420 clean mussels
+3422 toss out dead mussels
+3423 beard mussels
+3424 scrub mussels
+3433 have onion
+3435 use coriander
+3440 add butter
+3442 add chilli chardonnay oil
+3443 cook butter
+3445 add chopped garlic mussels
+3446 sprinkle dill
+3447 add chilli flakes
+3448 add white wine
+3449 add tomato cover mixture
+3450 shake ingredients
+3458 sprinkle fennel
+4866 boil pasta and fry bacon
+4868 combine whisked eggs and parmesan
+4869 drain pasta
+4870 add bacon and eggs to pasta
+4989 take cubed beef
+4990 put beef in cooker
+4991 take caraway seeds
+4992 add sweet hot paprika
+4993 sprinkle salt and ground pepper over the beef
+4994 add chopped onion red bell ppepper
+5178 set up grill for indirect heat
+5184 slice onions
+5191 add olive oil to iron pan
+5192 sear hot dogs
+5207 cover bratwursts with onions
+5210 pour beer
+5212 put cover on grill slow cook bratwursts
+5400 add butter to noodles
+5401 add cheese
+5405 pour eggs
+5406 add evaporated milk
+5407 add dijon mustard
+5408 add salt
+5409 add pepper sugar
+5411 add milk
+5424 add chicken stock
+5431 butter casserole
+5456 cut belly side into thin slices
+5458 turn salmon cut against the grain
+5947 add lemongrassgarlic scallions
+5948 add hoison saucesesame oil mix up with salt and pepper
+5950 lay out dumpling wrappers put mixture in middle of wrapper
+5954 wet edge of dumpling wrappers with water
+5955 fold and crimp wrappers to seal
+5958 seal pot stickers using fork
+5963 dump pot stickers into boiling water
+5965 turn on nonstick pan add oil to pan
+5967 drain pot stickers place them in pan
+5968 flip over potstickers
+5978 add more oil
+5979 add aromatics
+5980 add baby tatsoi salt pepper
+5982 toss pot stickers together
+6134 melt butter in non stick add bread
+6136 add cheese to bread
+6139 place bread on top of cheese
+6140 add cheddar on top
+6141 melt cheese
+6142 flip bread add cheese
+6144 toast sandwich
+6186 start with our walnut halves
+6192 add sugar
+6193 mix in paprika cayenne fennel seeds coriander
+6195 spread mixture on baking sheet
+6200 roast mixture in oven
+6202 melt walnuts
+6208 add yogurt
+6209 squeeze in creme fresh lemon juice white pepper walnut oil black truffle
+6215 whisk mixture
+6221 want celery roots
+6225 move apples to mixing bowl
+6226 put walnuts out of oven
+6228 put dressing to apples and celery
+6240 garnish plates with grapes
+6672 add oil
+6680 add chicken flavor
+6682 add salt
+7386 coat chicken
+7390 cook chicken in oven
+7391 wait minutes
+7394 mix chicken with sauce
+7503 knead dough for minutes
+7508 make bowl with cover
+7510 make six small balls
+7512 make round shape
+7513 cover with film
+7516 make the dough flat with hands
+7518 spread tomato over pizza dough
+7519 add mozzarella cheese shredded basil
+7520 make pizza
+7522 finish pizza with basil and olive oil
+8073 remove bacon from pan
+8075 dry meat with towel
+8077 brown onions and carrots
+8080 pop beef bourguignon in oven
+8082 add aromatics
+8083 add wine
+8091 brown mushrooms
+8096 add dijon mustard
+8361 clean and deskin shrimp
+8362 devein shrimp boil water
+8363 chop green onions
+8365 peel and mince shallots
+8367 strain water chestnuts
+8370 flatten pot stickers bottom add chicken broth
+8371 add oil fry pot stickers
+8377 fill large pot with vegetable oil heat to degrees
+8378 rinse cod fillets under cold water pat cod fillets dry
+8379 add flour into bowl
+8380 add two tablespoons of garlic powder
+8381 add paprika salt ground black pepper stir ingredients add egg beer
+8382 mix the batter
+8384 add half cup of flour onto another plate
+8385 coat the fillets in flour dip the fish into the batter
+8386 lower fish fillet into hot oil
+8388 transfer fried fish fillets to plate
+8389 salt fish serve with tartar sauce lemon cold beer
+8514 take bread
+8519 add cheese
+8527 toast bread
+8530 mix flour milk nutmeg
+8532 place batter in microwave
+8533 mix ingredients
+8547 brown onions in dark sesame oil
+8548 saute garlic for seconds
+8549 saute chopped chicken
+8550 bring sauce to boil
+8551 add red bell peppers and snow peas
+8552 top with chopped peanuts
+8766 add water
+8815 cut cucumber in very thin slices
+8821 cut cucumber slices into thin strips
+8826 cut up tomato into thin slices
+8833 cut up deli sliced ham into thin slices
+8840 put ramen noodles in boiling water
+8841 mix ramen noodles around
+8843 mix ramen noodles with cold water
+8846 mix noodles around
+8849 shake noodles put it on plate
+8850 put ingredients around on top of noodles
+8854 pour sauce mix on top
+10140 whisk eggs
+10141 season with salt transfer flour bread crumbs to aluminum sheets
+10144 cover meat in flour
+10145 dunk in eggs
+10147 cover with bread crumbs
+10150 heat up lard
+10151 fry schnitzel
+10152 transfer schnitzel onto plate
+11185 submerge rice noodles in water
+11187 combine soysauce wine peppercorns
+11188 cut chicken marinate chicken
+11189 drain rice noodles
+11190 mix chicken broth oyster sauce seame oil soy sauce curry powder sugar
+11191 cook chicken
+11192 set chicken aside
+11507 soak vermicelli noodles
+11508 add onion
+11509 add bell pepperstir fry bell pepper
+11510 add oil
+11511 add shrimp fry shrimp set shrimp aside
+11512 add oil add egg swirl eggs
+11513 slice omelette add to noodles
+11514 mix ingredients garnish with coriander
+11524 take daal rajma
+11525 presoak daal
+11526 take onions tomatoes and coriander
+11527 take ginger garlic chilli butter salt jeera powder
+11528 cook daal
+11531 add water
+11532 cover the lid
+11534 slow heat
+11537 add chopped onions
+11538 fry onions
+11543 add ginger garlic paste
+11544 add tomatoes
+11546 add salt and red chilli powder
+11555 add darker and water
+11561 add jeera powder kasuri methi chilli and coriander
+11562 add fresh cream
+11572 mix water and cornstarch
+11573 add peas ginger and sugar
+11576 add soy sauce and chilli
+11579 break up egg whites
+11580 add cornstarch
+11586 coat and season chicken
+11587 oil pan
+11588 add chicken to pan
+11592 cook for six minutes
+11599 add snow peas mixture
+11601 cover it for couple minutes
+11605 stir mixture
+11607 add chicken back in
+11608 toss chicken in sauce
+11614 serve with brown rice
+11659 take garlic
+11660 take onions clients cilantro
+11676 take kidney beans
+11677 take water
+11678 take ginger oil turmeric
+11681 close cooker
+11683 add butter
+11684 add ginger
+11685 add cumin seeds
+11689 add garlic
+11692 add onions
+11699 add tomatoes
+11704 add salt
+11705 add red chilli powder
+11711 add daal
+11712 cook daal
+11723 mash daal
+11733 turn off heat
+11734 add cilantro
+11735 add heavy whipping cream
+11818 drizzle oil on chicken
+11819 add salt pepper
+11820 grill chicken
+11821 cut baguette
+11822 add thyme to baguette
+11825 flip chicken
+11827 flip chicken
+11830 mix dijon mustard mayonnaise
+11831 add white iwne vinegar
+11832 add cheese
+11836 add anchovy paste
+11837 add lemon juice
+11839 add avocado blend mixture
+11842 cut lettuce
+11843 add lettuce to grill drizzle olive oil
+11844 rub lettuce
+11849 place lettuce on plate
+11850 slice chicken place chicken on lettuce add sliced baguette
+11856 garnish with parmesan
+13945 chop tomato
+13947 keep ingredients aside
+13948 grind shallots
+13949 heat oil cook chicken
+13950 add onions
+13952 add onion paste mix add water cook mixture
+13953 add coriander leaves
+13954 mix ingredients
+14063 cut avocado
+14064 mix wishabi powder
+14066 add sugar syrup
+14071 add lime juice
+14076 add liquids
+14079 add sesame
+14081 chop ginger
+14083 grate ginger
+14086 let sit
+14089 chop giuliani
+14096 peel cucumber
+14104 add mushroom add turkey
+14106 cut mushroom
+14111 put baby coriander in
+14117 pull salmon on top
+14225 take all purpose flour oil salt
+14226 mix everything
+14227 make dough
+14240 take chopped onions
+14243 take cilantro
+14244 take dry coriander
+14246 add chopped onion ginger cilantro
+14247 add green chilies
+14249 add oil in pan
+14250 heat oil
+14254 add ginger
+14256 add salt red chili powder
+14260 add potatoes to pan
+14282 heat oil
+14289 fry samosa untill brown
+14293 heat oil
+14294 add chopped onions
+14295 cook onions
+14296 add chopped carrots add turnip
+14297 add beef
+14299 add fresh thyme add cinnamon stir in flour
+14300 add chicken broth add beef broth add tomatoes
+14301 heat mixture
+14302 spread mashed potatoes sprinkle grated carrot
+14385 split jalapenos in half
+14386 add bay leaf garlic chop up red onion
+14388 add knob creek rye
+14392 add beer
+14395 add water salt black pepper
+14399 put bratwursts in pot
+14401 simmer over grill
