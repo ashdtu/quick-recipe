@@ -30,6 +30,7 @@ MANIFEST
 tmp/
 .DS_Store
 
+*.tar
 *.tar.gz
 *.json
 *.pkl
