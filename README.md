@@ -56,7 +56,7 @@ python train_visual.py
 python train_multimodal.py
 ```
 
-** Evaluate**
+**Evaluate**
 ```
 cd attn-lstm
 # For training Attention LSTM Visual model
@@ -74,7 +74,7 @@ python prepare_dataset.py
 python main_multimodal.py
 ```
 
-** Evaluate**
+**Evaluate**
 ```
 cd multihead-transformer
 python evaluate_multimodal.py
