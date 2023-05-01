@@ -5,6 +5,8 @@ Please download data and model checkpoint files from [drive](https://drive.googl
 ### Acknowledgement
 This codebase has been initialised from the [repo](https://github.com/frankxu2004/cooking-procedural-extraction) for the paper "A Benchmark for Structured Procedural Knowledge Extraction from Cooking Videos". 
 
+We have also adapted this [repo](https://github.com/dwayne99/Image_Captioning) for our Attention-LSTM Visual and Multimodal model, and this [repo](https://github.com/senadkurtisi/pytorch-image-captioning) for our Multihead Transformer model.
+
 
 Project Organization
 ------------
@@ -21,6 +23,12 @@ Project Organization
     
 
 ------------
+
+### Getting Started
+```
+pip install -r requirements.txt
+```
+
 
 ### Experiment wise Notebooks
 
