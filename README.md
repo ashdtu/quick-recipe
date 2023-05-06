@@ -34,6 +34,7 @@ pip install -r requirements.txt
 
 **Feature Re-alignment**
 - Feature Re-alignment notebook: `notebooks/yc2_feature_alignment_v2.ipynb`
+- Video pipeline notebook: `notebooks/video_pieline.ipynb`
 
 **KeyClip Selection**
 - DistilBERT-Classifier(with and without Context): `notebooks/DistilBERT-keyclip.ipynb` 
@@ -42,6 +43,7 @@ pip install -r requirements.txt
 - Independent Visual Features: `notebooks/yc2_cnn_visual_only.ipynb`
 - Unified Visual Features: `notebooks/yc2_visual_unified_feat.ipynb`
 - Self-attention on visual features: `notebooks/yc2_self_attn.ipynb`
+- Neural Selection Baseline `notebooks/neural_selection_baseline.ipynb`
 
 **Knowledge Extraction**
 - T5 Small: `notebooks/2_1_Knowledge_Extraction_T5small.ipynb`
